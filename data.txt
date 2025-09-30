@@ -1,0 +1,973 @@
+label	col_00	col_01	col_02	col_03	col_04	col_05	col_06	col_07	col_08	col_09	col_10	col_11
+5	1847 kg	0.2017	RUNNING	STOCKTON	0.0827	1225	1.6913	Basketball	1315 m	SANTA CLARITA	0.2084	1.6003
+4	1672 kg	0.7091	ice hockey	San Bernardino	1.9133	1521	1.122	soccer	544 m	Modesto, Moreno Valley	0.3429	0.9163
+5	1691 kg	0.883	running	Stockton	0.8197	1360	-0.6893	basketball	1091 m	Long Beach	0.3473	-0.213
+2	-1287 kg	0.2343	volleyball	Irvine	0.4747	105	1.8982	motor sports	2086 m	oAKLAND	0.1239	1.1263
+2	205 kg	-0.0906	volleyball	Irvine	0.2668	1689	2.5584	boxing	1377 m	San Francisco	0.4622	-0.0865
+0	1794 kg	0.1478	tennis	Anaheim, Sacramento, San Diego	-0.3874	974	0.4326	soccer	12 m	Moreno Valley, Stockton	0.8883	-0.1577
+1	-391 kg	0.226	motor sports	Modesto, Moreno Valley	0.5262	275	-0.4801	golf	938 m	Irvine, Anaheim, Santa Ana, Chula Vista	-0.1318	1.6575
+1	-1120 kg	0.3019	track & field	Moreno Valley	0.4924	3	0.3487	track & field	1067 m	Irvine, Santa Ana	1.7689	0.2551
+0	856 kg	-0.134	soccer	San Jose	1.0497	-430	0.9886	baseball	2646 m	Sacramento	1.4027	0.2821
+4	1921 kg	0.7791	basketball	San Bernardino	-0.2011	1318	0.8176	soccer	1099 m	Modesto	0.3326	0.67
+4	1229 kg	-0.0105	ice hockey	Moreno Valley, Modesto, Fresno, Santa Ana	0.115	1290	1.5443	soccer	142 m	Moreno Valley	0.8658	0.3437
+2	176 kg	-0.3004	VOLLEYBALL	Oakland	-0.1133	1951	0.32	motor sports	-135 m	Oakland, Los Angeles	1.1891	0.2532
+5	1606 kg	1.3146	running	Stockton	0.6963	1066	-0.6044	basketball	-574 m	Santa Clarita	1.4806	0.2634
+2	350 kg	0.1889	volleyball	Oakland	0.6303	-161	0.6073	running	1065 m	Oakland, San Bernardino, Los Angeles	2.2002	-0.1262
+3	272 kg	1.4363	baseball	Santa Clarita	1.3668	-249	1.2804	N/A	-1903 m	Riverside	0.2783	-0.0575
+5	-530 kg	0.0664	ice hockey	Stockton	0.7528	2139	0.5645	basketball	1022 m	Long Beach	0.0926	0.5745
+2	-1297 kg	1.3194	volleyball	Oakland, Irvine	1.6256	220	1.1999	boxing	-1062 m	Oakland, San Diego, Los Angeles, San Bernardino	0.4786	0.6279
+2	-83 kg	0.2277	volleyball	Oakland	-0.5349	487	0.6893	running	1206 m	Oakland, Fremont	0.2212	1.1528
+2	-384 kg	0.8998	volleyball	Oakland	-1.0458	1270	0.0896	motor sports	1774 m	Fremont, Oakland	1.6509	1.4629
+5	-799 kg	-0.2078	golf	Riverside, Modesto, Santa Ana, Fresno	-0.0415	1066	-1.6205	basketball	460 m	Long Beach	-0.1463	0.8381
+1	795 kg	1.6185	track & field	Chula Vista	-0.1392	1049	2.0094	track & field	-86 m	Santa Clarita	0.1544	2.0662
+4	734 kg	1.7252	basketball	San Bernardino, Long Beach	0.116	2392	-0.4063	soccer	375 m	Modesto	-0.0511	-0.8373
+2	-650 kg	1.3102	volleyball	NULL	0.0234	1209	2.7455	motor sports	937 m	Oakland, San Bernardino, Los Angeles	0.4961	0.4449
+4	1991 kg	0.0212	basketball	San Jose	0.1212	992	3.4153	soccer	1301 m	None	-0.1785	-0.9624
+4	1665 kg	0.0765	ice hockey	San Bernardino	1.7912	605	-0.4992	soccer	577 m	Moreno Valley	1.22	-0.0089
+2	1092 kg	0.8592	volleyball	Chula Vista, Oakland	-0.0761	2025	0.5524	motor sports	833 m	sAN dIEGO, sAN bERNARDINO, fREMONT	0.4092	0.6139
+2	87 kg	1.2471	volleyball	Irvine	0.958	706	1.4222	boxing	1462 m	San Bernardino, Los Angeles	0.7314	-0.8105
+4	-188 kg	1.708	motor sports	San Bernardino, Long Beach	-0.0578	1133	0.7197	soccer	1565 m	Modesto	0.9736	-0.2324
+1	752 kg	-0.307	motor sports	Fresno, Moreno Valley	n/a	130	-1.2083	track & field	14 m	Bakersfield, San Jose	1.5374	0.2625
+1	n/a	2.4654	track & field	Fresno, Riverside, Moreno Valley, Santa Ana	-0.207	447	-0.004	track & field	56 m	?	0.8724	-0.7296
+5	586 kg	0.326	motor sports	Stockton	0.0641	632	-1.9583	soccer	1102 m	Long Beach	0.1735	1.3844
+3	663 kg	0.2436	baseball	San Jose	0.5606	-2	0.1414	badminton	343 m	Riverside	1.2017	-0.2814
+2	0 kg	-0.1565	football	Chula Vista, Irvine	0.308	-602	0.6159	football	-306 m	Los Angeles, Fremont, San Diego, San Bernardino	1.371	0.6083
+5	715 kg	0.5837	golf	Stockton	-0.0067	70	-0.1665	basketball	749 m	Santa Clarita	2.0354	1.7083
+3	520 kg	0.447	baseball	Santa Clarita	0.5107	613	0.4459	badminton	970 m	Riverside	0.7563	0.6077
+1	-248 kg	-0.0586	track & field	Modesto	-0.2304	1402	0.7757	track & field	396 m	Bakersfield, Santa Ana, San Jose, Irvine	0.2968	0.4522
+3	916 kg	1.8218	boxing	Santa Clarita	-0.331	9	2.027	tennis	785 m	San Francisco	0.8699	0.4174
+4	1013 kg	-0.1289	ice hockey	San Francisco, Long Beach	0.542	1140	0.7001	soccer	2716 m	Stockton, Modesto	0.4018	0.1529
+1	74 kg	-0.0067	soccer	Fresno	1.3545	487	0.8107	golf	13 m	San Jose, Bakersfield	0.5171	1.0982
+4	-272 kg	0.6585	basketball	San Francisco, San Bernardino	0.9404	1084	-0.0447	soccer	367 m	Stockton	0.4349	0.1642
+3	-519 kg	0.7796	running	San Diego, Fremont	0.4523	-219	3.0661	ice hockey	1266 m	Riverside	0.0003	0.2172
+4	1065 kg	0.0507	basketball	Long Beach	0.4193	1294	0.6461	soccer	312 m	Modesto, Stockton	0.4995	-0.1488
+0	-886 kg	0.4136	tennis	San Diego, Bakersfield, Anaheim, Fremont	-0.1033	1269	0.1783	baseball	321 m	Sacramento	0.2237	0.3284
+5	1065 kg	0.0871	golf	Stockton	0.4669	235	-0.2746	basketball	-658 m	Santa Clarita	0.4588	0.0234
+0	1399 kg	-0.1181	tennis	Bakersfield, Fremont	0.7095	848	0.3997	baseball	1181 m	Sacramento	1.8828	-0.0522
+0	851 kg	1.0489	soccer	Anaheim, San Diego	0.435	1631	-0.1514	baseball	40 m	Fresno	2.0087	-0.5188
+5	-874 kg	0.1213	golf	Stockton	0.2147	-262	-0.3451	basketball	-1880 m	Santa Clarita	0.0247	1.1948
+3	455 kg	1.4247	baseball	San Jose	2.1907	603	0.3595	badminton	1213 m	San Francisco	1.7801	None
+5	699 kg	-0.4779	badminton	Stockton	0.2776	-643	1.7698	basketball	2476 m	Long Beach	-0.7309	2.113
+2	407 kg	0.3211	volleyball	Oakland, Chula Vista	1.6017	856	0.1575	running	1333 m	Los Angeles	0.551	1.0632
+3	649 kg	1.3709	boxing	Santa Clarita	0.0834	-195	2.3376	ice hockey	1362 m	San Francisco	-0.5626	1.3839
+1	10 kg	0.5859	track & field	Moreno Valley, Modesto, Fresno	-0.0216	-244	0.9153	football	570 m	Stockton, Moreno Valley	0.1653	-0.0447
+1	812 kg	-0.133	track & field	Riverside, Modesto, Santa Ana, Fresno	1.5116	631	1.6998	track & field	13 m	Stockton	0.5555	-0.2892
+0	-756 kg	-1.3096	soccer	San Diego, Sacramento, Fremont, Bakersfield, Anaheim	1.5442	623	-0.2604	baseball	1409 m	Fresno	1.8628	0.5078
+0	1163 kg	1.7529	football	Anaheim, Fremont	0.8103	542	-0.858	baseball	173 m	Moreno Valley, Modesto	1.3634	0.0744
+4	20 kg	0.7853	ice hockey	San Bernardino	0.4754	1854	0.96	soccer	635 m	Moreno Valley	0.2804	1.1902
+4	3787 kg	0.8907	basketball	San Bernardino, Long Beach	0.5115	752	1.4326	soccer	1309 m	Stockton	0.1457	0.6624
+2	-63 kg	n/a	volleyball	Chula Vista, Oakland	0.8968	1215	0.5463	running	342 m	San Diego	-0.083	1.735
+1	1215 kg	-0.1796	motor sports	Modesto	1.7411	774	0.3948	golf	-1774 m	Irvine, Anaheim, Santa Ana, San Jose, Bakersfield	0.2767	0.801
+5	872 kg	-0.01	golf	Stockton	-0.9353	740	0.9072	basketball	259 m	Long Beach	1.2418	1.7139
+0	1450 kg	0.6627	soccer	Oakland	-0.5589	618	-0.1281	baseball	85 m	Fresno	0.3378	0.1002
+2	1255 kg	0.5497	volleyball	Oakland, Irvine	0.3315	1392	0.0312	motor sports	1177 m	San Bernardino, Oakland, San Diego	0.7312	1.5637
+5	305 kg	0.2838	golf	Stockton	1.5023	277	-0.596	basketball	765 m	Santa Clarita	0.0565	1.088
+3	660 kg	1.8894	motor sports	San Jose	0.1434	295	1.4436	badminton	258 m	San Francisco	0.1864	0.5111
+0	2182 kg	1.6877	FOOTBALL	Los Angeles, San Diego, Sacramento, Fremont, Bakersfield	1.5539	2012	0.3087	baseball	19 m	Stockton, Moreno Valley	0.748	-0.1918
+3	1935 kg	1.702	baseball	San Jose	1.4877	212	-0.0521	badminton	231 m	San Francisco	0.8915	1.2596
+0	-112 kg	1.5125	soccer	San Diego, Bakersfield, Sacramento, Los Angeles, Fremont	0.7148	268	1.1227	baseball	797 m	Fresno	0.4018	0.6832
+4	-718 kg	0.1662	ice hockey	Long Beach	0.8464	-576	0.87	soccer	520 m	Moreno Valley, Modesto	0.8239	0.5715
+5	1166 kg	0.661	running	Stockton	0.1373	-112	0.312	basketball	1571 m	Long Beach	-0.9621	1.1845
+2	864 kg	0.7213	volleyball	Irvine, Chula Vista	0.0659	613	0.1283	baseball	621 m	Oakland	0.1446	0.3274
+0	730 kg	0.3711	tennis	Fremont, San Diego, Anaheim, Sacramento	0.8228	2625	1.6397	baseball	446 m	Sacramento	0.6215	-0.9968
+3	1111 kg	0.5493	baseball	Santa Clarita	1.5583	39	-0.4144	Badminton	1112 m	San Francisco	-0.3733	0.7756
+4	250 kg	0.0986	ice hockey	San Francisco, San Bernardino	-0.5009	1252	-0.0237	soccer	2640 m	fremont, los angeles, oakland, san diego	1.4414	-0.0007
+3	926 kg	1.3094	boxing	Santa Clarita	-0.983	-191	1.474	badminton	487 m	Riverside	1.639	-0.184
+5	-2 kg	0.8129	running	Stockton	2.113	728	-0.243	basketball	-374 m	Santa Clarita	0.6559	-0.4277
+2	-727 kg	-0.1378	NULL	Oakland, Chula Vista	-0.0498	2478	-0.9143	motor sports	514 m	Los Angeles	0.9485	1.8249
+3	-397 kg	-0.6786	baseball	Santa Clarita	1.0034	548	1.0098	volleyball	12 m	sAN fRANCISCO	2.2329	0.1047
+4	-161 kg	0.3712	basketball	San Bernardino, Long Beach	0.9937	1280	1.0898	soccer	1122 m	Moreno Valley	0.9749	-0.3382
+5	-7 kg	0.6525	running	Stockton	-0.1211	906	0.7652	basketball	333 m	Long Beach	-0.2751	0.9969
+2	2676 kg	0.4059	volleyball	Irvine	0.2395	579	0.6048	motor sports	1155 m	San Diego, Oakland, Los Angeles, Fremont	1.439	0.8076
+5	2318 kg		badminton	Stockton	0.0793	468	-0.7783	basketball	341 m	Los Angeles, San Bernardino	-0.265	-1.0334
+3	553 kg	0.8267	volleyball		0.5874	-836	1.1701	n/a	-89 m	San Francisco	0.914	-0.0298
+0	44 kg	-0.3174	soccer	San Diego	-0.2131	1373	0.4744	baseball	-1 m	Fresno	0.8872	0.7424
+0	1519 kg	-0.3672	tennis	Fremont	-0.0683	1606	0.1527	baseball	2709 m	Sacramento	0.7213	0.9141
+4	175 kg	-0.428	ice hockey	San Francisco	0.7425	-92	0.3616	soccer	2255 m	Moreno Valley	0.7974	-0.1685
+2	-54 kg	-0.12	volleyball	Irvine, Oakland	-0.4484	209	0.4692	soccer	609 m	San Diego	1.1488	0.4924
+5	-224 kg	0.0385	golf	Long Beach, San Bernardino	0.6338	1086	-0.4376	basketball	859 m	Santa Clarita	0.3026	1.3899
+2	-730 kg	0.4759	volleyball	Santa Clarita	1.4687	723	0.5506	motor sports	1175 m	Fremont	1.4782	-0.4036
+3	-430 kg	1.5793	boxing	San Jose	0.8208	-1035	0.01	badminton	1944 m	Riverside	0.7013	2.2538
+4	1245 kg	0.237	basketball	SAN FRANCISCO, SAN BERNARDINO	-0.975	1118	1.2184	soccer	1885 m	Stockton, Modesto	-0.2187	1.4366
+2	463 kg	1.0831	volleyball	Chula Vista	0.2315	-234	0.5483	boxing	1035 m	San Diego, Oakland, Fremont, San Bernardino	0.3197	1.5178
+0	734 kg	-1.4424	badminton	Anaheim, Bakersfield	0.3374	668	0.6961	baseball	-727 m	Sacramento	0.2651	-0.2641
+0	482 kg	0.9968	tennis	Stockton	0.0888	3044	0.1206	baseball	193 m	Sacramento	0.1655	0.9091
+5	2158 kg	-0.2514	golf	Stockton	0.0038	310	-0.0402	basketball	-151 m	Santa Clarita	0.5617	1.5249
+2	1459 kg	0.4179	volleyball	Chula Vista	0.2124	838	1.2396	boxing	309 m	San Bernardino, Los Angeles, San Diego, Oakland	-0.3266	1.7746
+1	937 kg	1.4404	track & field	San Bernardino	-0.2309	1278	0.2948	track & field	307 m	Bakersfield, Santa Ana, San Jose	0.9064	1.2314
+2	942 kg	0.9936	volleyball	Irvine, Oakland	0.1408	639	0.8021	motor sports	449 m	San Bernardino	0.2949	1.2895
+1	589 kg	-0.0532	track & field	Riverside, Moreno Valley, Santa Ana	0.2311	74	1.5069	golf	-298 m	Chula Vista, Santa Ana, Irvine, Bakersfield	-0.3269	0.3069
+5	-144 kg	-0.2603	golf	Stockton	0.3159	515	0.9795	basketball	-1363 m	Santa Clarita	1.1929	1.0943
+5	-1069 kg	-0.2444	badminton	Stockton	0.0695	-973	1.9282	basketball	-794 m	Santa Clarita	0.1274	1.3709
+5	1019 kg	-0.345	running	Stockton	0.5634	300	-0.8389	basketball	2274 m	Santa Clarita	-0.8276	1.9847
+1	1183 kg	1.4914	track & field	Santa Clarita	-0.6406	-192	0.0632	track & field	-355 m	Irvine, Anaheim	-0.3118	0.5644
+3	-811 kg	1.1974	boxing	Chula Vista	0.9904	-258	0.9845	volleyball	1348 m	San Francisco	0.1465	0.2069
+0	-397 kg	0.7596	tennis	San Jose	1.0139	1569	0.0171	baseball	438 m	Sacramento	1.2669	0.5389
+4	445 kg	0.2569	ice hockey	Long Beach, San Bernardino	1.038	1432	-0.2617	soccer	296 m	Stockton	0.5225	
+5	1498 kg	1.1439	running	Stockton	-0.4272	1921	-1.0224	basketball	788 m	Santa Clarita	0.3977	1.7365
+1	783 kg	0.5429	motor sports	MODESTO, MORENO VALLEY	0.0674	-548	3.0883	track & field	309 m	Chula Vista, Anaheim, San Jose, Irvine, Bakersfield	-0.1949	0.7168
+5	1214 kg	0.4194	badminton	Stockton	-0.5923	118	-0.2799	soccer	-1203 m	Long Beach	0.702	0.2159
+0	213 kg	-0.2252	tennis	stockton	-0.5732	1749	0.2505	baseball	-659 m	Fresno	1.2876	0.9
+3	891 kg	0.126	baseball	San Jose	-0.0086	-397	1.5993	tennis	35 m	Riverside	0.0056	-0.5683
+4	1675 kg	-0.1759	basketball	San Bernardino, Long Beach	1.0488	330	0.4598	soccer	1112 m	Modesto, Stockton	-0.1353	0.1904
+4	467 kg	0.1453	basketball	Long Beach, San Bernardino	1.2945	930	0.9566	soccer	1332 m	Modesto, Stockton	0.0046	-1.0368
+4	-218 kg	1.8419	ice hockey	Long Beach	-0.0562	948	-0.3277	soccer	17 m	Modesto, Stockton	0.6954	0.7721
+1	-672 kg	0.1954	motor sports	Riverside, Fresno, Moreno Valley, Santa Ana	0.0381	-609	-0.1035	golf	1756 m	Anaheim, Bakersfield	-0.5789	0.12
+3	501 kg	0.4675	baseball	Santa Clarita	0.0271	898	2.3545	ICE HOCKEY	1285 m	riverside	-0.6249	0.8472
+3	39 kg	-0.2978	boxing	Santa Clarita	-0.7703	590	-1.4328	volleyball	-1067 m	Fremont, Los Angeles	0.0805	-0.4295
+1	-617 kg	1.0591	track & field	Stockton	0.4589	-355	0.9197	track & field	-846 m	Bakersfield, Santa Ana, Anaheim	-0.3558	0.4266
+1	-363 kg	-0.3924	NULL	Fresno, Riverside, Santa Ana, Moreno Valley	0.9117	872	-1.2689	track & field	-1457 m	San Jose, Anaheim, Bakersfield	1.5948	-0.2302
+4	1568 kg	0.5686	ice hockey	San Bernardino	0.0605	1152	1.7816	soccer	581 m	Moreno Valley	0.4609	-0.838
+4	416 kg	1.3943	tennis	San Francisco, San Bernardino	0.5554	279	-0.2261	soccer	892 m	Modesto	-0.5313	0.2501
+5	801 kg	0.2341	running	Stockton	0.3625	1621	-1.383	basketball	191 m	Long Beach	0.692	0.7944
+2	1187 kg	1.0835	volleyball	Irvine	-0.0804	1809	1.2171	football	962 m	Oakland, Fremont, Los Angeles, San Diego	2.0853	0.6782
+5	898 kg	1.0917	running	Stockton	0.6378	-300	0.7304	BASKETBALL	1136 m	Long Beach	-0.4755	-0.2867
+1	1009 kg	0.9467	track & field	Modesto	0.8246	128	1.7117	golf	1164 m	Anaheim, San Jose, Chula Vista	0.0587	1.1059
+0	527 kg	1.0726	track & field	San Diego, Fremont, Bakersfield, Los Angeles, Sacramento	1.1795	1989	0.8286	Baseball	1524 m	Fresno	1.2093	0.4028
+4	646 kg	-0.1971	basketball	Long Beach, San Bernardino	-0.0598	868	0.4193	soccer	758 m	Moreno Valley, Stockton	0.2383	0.3141
+5	529 kg	0.9731	running	Stockton	0.6043	40	-0.5998	basketball	3035 m	Santa Clarita	0.1976	-0.7254
+5	1001 kg	0.9613	golf	Stockton	0.7515	1794	-0.4699	basketball	236 m	Long Beach	2.4807	0.2936
+1	N/A	0.3018	motor sports	Moreno Valley, Modesto, Riverside	0.5848	200	1.115	track & field	690 m	Anaheim, Santa Ana, San Jose, Chula Vista	0.6486	1.3157
+2	-194 kg	1.4515	volleyball	Chula Vista, Irvine	-0.0073	1105	-0.0697	motor sports	1447 m	fremont	1.811	1.9757
+2	-324 kg	0.9249	volleyball	Irvine, Chula Vista	1.4086	813	0.2915	running	-188 m	San Diego, Oakland, San Bernardino	1.1389	0.7762
+4	858 kg	1.92	basketball	Long Beach	0.3472	657	-0.5321	soccer	1458 m	Stockton, Moreno Valley	1.1602	-0.157
+5	1233 kg	0.3185	golf	Stockton	0.4842	1426	-0.4153	basketball	489 m	Santa Clarita	0.2129	0.5916
+0	1030 kg	0.8625	football	Bakersfield, San Diego, Anaheim, Fremont, Sacramento	1.0418	372	0.8845	baseball	2903 m	Sacramento	1.4656	0.2709
+0	752 kg	-0.5021	soccer	Modesto, Fresno, Riverside	0.7789	772	1.2388	baseball	768 m	Sacramento	0.3185	0.6819
+0	503 kg	0.7764	football	Bakersfield, Anaheim, Fremont	-0.0363	N/A	1.1589	baseball	1005 m	Sacramento	1.7971	0.7632
+1	-577 kg	1.2925	MOTOR SPORTS	Riverside	0.5215	-225	0.3032	track & field	488 m	Bakersfield, Anaheim, Irvine, Chula Vista	0.2008	1.2505
+5	964 kg	0.113	running	Stockton	-0.1153	817	-1.3724	basketball	515 m	Long Beach	1.303	1.4162
+1	346 kg	1.7715	soccer	Santa Ana, Riverside, Modesto, Fresno	0.6048	706	-0.5472	golf	859 m	Chula Vista, Santa Ana, San Jose, Irvine, Anaheim	0.2529	1.3869
+5	-500 kg	0.822	golf	Stockton	0.7823	243	1.5464	volleyball	1123 m	Long Beach	-0.5291	0.6596
+1	1382 kg	1.3093	motor sports	Moreno Valley, Modesto	1.5788	?	0.4628	soccer	-547 m	Bakersfield, Irvine, Anaheim	0.4045	0.7568
+5	101 kg	0.3894	track & field	San Jose	1.1817	359	0.7716	basketball	110 m	Santa Clarita	-0.5614	0.6732
+2	2109 kg	1.2075	football	Irvine, Oakland	0.9732	13	-0.5239	boxing	-3 m	san bernardino, fremont, san diego	0.9859	0.2324
+0	1789 kg	0.738	volleyball	Fremont, San Diego, Sacramento, Anaheim, Los Angeles	1.0845	756	-0.0594	baseball	-1140 m	Oakland, Los Angeles, Fremont, San Bernardino	0.2613	-0.5093
+4	2055 kg	0.9008	basketball	San Francisco, San Bernardino	1.2167	1934	0.8464	SOCCER	1519 m	Fresno	-0.3121	0.5293
+2	-1145 kg	-0.7298	volleyball	Chula Vista	0.544	-119	0.4683	running	800 m	Los Angeles, Oakland, San Diego	0.7965	1.3068
+5	-270 kg	0.9389	running	Stockton	0.4135	907	-0.255	basketball	-49 m	Santa Clarita	0.5567	1.2112
+4	?	0.0446	ice hockey	Long Beach	0.6336	299	0.6145	soccer	455 m	Moreno Valley	-0.0356	-0.3182
+3	-127 kg	0.1898	baseball	Santa Clarita	1.7021	-27	1.2422	ice hockey	-251 m	Riverside	0.8698	1.3142
+0	615 kg	0.4963	football	Sacramento, Anaheim, Bakersfield, San Diego	0.2635	568	0.9783	baseball	550 m	Long Beach	1.1608	-0.6922
+1	-338 kg	0.8905	motor sports	Santa Ana, Riverside, Modesto, Fresno	-0.004	158	0.0563	golf	554 m	San Jose, Irvine, Anaheim, Santa Ana, Bakersfield	-0.1459	-0.7731
+5	1406 kg	0.7496	golf	Stockton	0.4393	2563	0.7932	Basketball	826 m	Santa Clarita	1.0442	0.4357
+5	1315 kg	0.0953	badminton	Stockton	0.9387	1364	-0.1044	basketball	87 m	Santa Clarita	-1.0927	1.1113
+3	990 kg	0.8159	Baseball	Stockton	0.3323	-531	0.755	ice hockey	1607 m	San Francisco	1.2888	0.4081
+0	1027 kg	1.8848	football	Sacramento, Bakersfield, San Diego	0.7508	155	0.8711	baseball	1541 m	Sacramento	0.1776	0.9586
+1	440 kg	-0.3122	track & field	Modesto, Moreno Valley, Fresno, Riverside	0.5512	450	0.1103	golf	1014 m	San Jose, Irvine, Anaheim, Santa Ana	-1.1131	0.8101
+4	700 kg	0.7446	basketball	Long Beach, San Bernardino	-0.4453	1471	0.1135	soccer	1781 m	Moreno Valley	1.8039	0.1638
+1	1568 kg	-0.2978	track & field	Santa Ana, Modesto, Moreno Valley	0.3895	-352	1.8138	track & field	-1739 m	Bakersfield, Anaheim, Chula Vista, San Jose	0.1982	1.0982
+2	-1220 kg	1.0872	volleyball	Oakland, Irvine	0.2174	703	2.2483	football	-392 m	Oakland, San Bernardino, Los Angeles, San Diego	2.0875	0.5749
+4	447 kg	1.6626	ice hockey	San Francisco	0.6676	1167	0.3448	soccer	3332 m	Moreno Valley	1.2588	0.1257
+4	-105 kg	-0.1383	basketball	San Bernardino, San Francisco	-0.4759	1202	-0.2452	soccer	1417 m	Moreno Valley	-0.5476	0.675
+1	945 kg	2.4756	motor sports	Riverside, Moreno Valley	-0.2935	353	1.2174	track & field	-901 m	San Jose	0.9745	-0.3405
+5	1721 kg	0.1461	golf	Stockton	0.4083	-491	0.5748	basketball	1819 m	Santa Clarita	0.9276	-0.3725
+0	1419 kg	0.2966	football	Bakersfield	-0.2843	644	1.1105	baseball	1868 m	Fresno	0.4357	-0.1267
+5	184 kg	0.9807	motor sports	Stockton	0.4937	1355	0.3853	basketball	-1760 m	Long Beach	0.4305	1.3549
+1	-437 kg	0.4026	track & field	Fresno, Modesto, Santa Ana	1.2373	-239	0.2614	golf	-861 m	Anaheim, Santa Ana, Bakersfield, San Jose	0.1805	0.344
+1	-204 kg	1.3791	basketball	Santa Ana	0.7947	-328	0.4074	golf	1221 m	Irvine	-0.1053	-0.0663
+3	30 kg	0.4319	baseball	Santa Clarita	0.3305	-642	0.6393	VOLLEYBALL	-548 m	Riverside	0.3419	1.0332
+0	210 kg	0.9135	football	Sacramento, Los Angeles	0.0203	1359	1.0052	baseball	1525 m	Fresno	0.4064	0.8616
+0	-1504 kg	0.7625	soccer	SAN DIEGO, SACRAMENTO, BAKERSFIELD, FREMONT	0.0794	1193	1.0475	baseball	1272 m	Fresno	1.3631	1.1995
+0	1835 kg	0.4978	soccer	Anaheim, Sacramento, Bakersfield, Los Angeles, Fremont	-0.0498	-24	0.1536	baseball	1181 m	Sacramento	0.902	-1.5784
+0	?	0.3007	tennis	Sacramento, San Diego, Bakersfield	0.1914	795	-1.214	baseball	3370 m	Sacramento	0.3974	1.1428
+3	-305 kg	0.8381	boxing	Santa Clarita	1.4049	408	1.1066	badminton	1666 m	San Francisco	-0.1302	1.5728
+1	-1778 kg	0.0719	TRACK & FIELD	Fresno, Moreno Valley, Modesto	0.3239	-515	0.4579	golf	1262 m	Chula Vista, San Jose, Anaheim, Santa Ana	0.122	1.073
+0	776 kg	0.2853	football	Anaheim, Sacramento	1.222	937	-0.1109	baseball	707 m	Sacramento	0.4522	-0.7943
+5	674 kg	0.7044	running	Stockton	0.6321	972	0.3474	basketball	2535 m	Long Beach	0.5748	0.3299
+3	578 kg	0.3643	baseball	Santa Clarita	1.5431	-395	0.5285	badminton	427 m	Riverside	0.642	-1.7431
+1	-1040 kg	1.6702	motor sports	Riverside, Moreno Valley, Fresno, Santa Ana	-0.4665	114	0.0146	track & field	3342 m	Irvine, Bakersfield, Chula Vista	2.0241	1.401
+1	-566 kg	1.1409	boxing	Modesto, Santa Ana, Moreno Valley, Fresno	0.9251	174	0.1175	track & field	418 m	Chula Vista, Bakersfield, Irvine	-0.8945	1.0452
+3	57 kg	0.3306	baseball	Fremont, Sacramento	-0.357	-586	0.1833	NULL	827 m	San Francisco	-0.1276	2.2618
+1	840 kg	0.8672	motor sports	Los Angeles, Sacramento	-0.6515	-417	-1.7266	track & field	202 m	Anaheim, Bakersfield, Chula Vista	0.1704	0.8017
+0	11 kg	0.0962	tennis	Los Angeles	0.9576	613	-0.1226	baseball	1493 m	Fresno	1.3264	NULL
+2	-519 kg	0.0852	track & field	Chula Vista, Irvine	0.6688	1988	-0.3665	running	209 m	Fremont, Oakland, San Diego, San Bernardino	2.3349	1.2255
+5	845 kg	-0.401	golf	Stockton	0.5333	698	-1.2678	basketball	None	Santa Clarita	-0.1775	0.6287
+0	292 kg	0.757	soccer	Bakersfield, Fremont	0.3044	1642	0.6165	baseball	1801 m	Fresno	0.1595	0.4891
+0	450 kg	2.0609	tennis	Bakersfield, San Diego, Fremont, Sacramento, Anaheim	-0.0228	1085	1.1472	baseball	384 m	Sacramento	0.9982	0.6405
+3	-402 kg	0.3749	boxing	Santa Clarita	-0.2321	1883	-0.2102	boxing	None	San Francisco	-0.493	-0.154
+4	684 kg	0.5014	basketball	San Francisco	-0.8329	-100	0.5418	soccer	100 m	Santa Clarita	0.8901	1.549
+3	526 kg	0.4416	baseball	Santa Clarita	1.2085	540	0.822	badminton	2133 m	San Francisco	-0.4179	0.3653
+5	1119 kg	0.0291	NULL	Stockton	-0.0243	1437	-0.9888	basketball	1791 m	Santa Clarita	0.3945	-0.1958
+2	576 kg	1.3317	volleyball	Chula Vista	0.3997	-183	1.1634	boxing	809 m	San Bernardino	1.73	-0.03
+0	?	0.238	soccer	Anaheim, Fremont, Bakersfield	0.7106	1206	-0.2369	baseball	1680 m	Sacramento	0.2099	-0.7461
+2	-1965 kg	1.1912	volleyball	Oakland	0.5486	928	1.7974	track & field	1147 m	San Diego, Fremont	0.2202	2.2315
+1	417 kg	1.0615	track & field	Riverside, Modesto, Moreno Valley, Santa Ana	0.3222	150	0.1779	track & field	962 m	San Jose, Bakersfield	-1.0895	0.7513
+3	243 kg	0.6063	baseball	Santa Clarita	0.2102	-1040	0.8217	ice hockey	824 m	San Francisco	0.8002	0.3251
+3	1373 kg	0.3793	baseball	San Jose	0.7342	1038	-0.9414	ice hockey	577 m	Oakland	2.1985	0.7523
+2	48 kg	0.6131	volleyball	Chula Vista	0.8294	700	1.3164	track & field	2117 m	Long Beach	0.8147	0.2072
+3	793 kg	0.0537	baseball	Santa Clarita	1.0059	-24	-0.3312	ICE HOCKEY	45 m	San Francisco	0.2781	0.7508
+5	891 kg	0.388	badminton	Stockton	0.1328	1532	-0.6782	basketball	706 m	Santa Clarita	1.1266	1.7787
+1	-956 kg	1.187	track & field	Moreno Valley	2.131	-721	1.5571	TRACK & FIELD	-984 m	San Jose, Bakersfield, Irvine, Santa Ana	-0.4341	1.8312
+2	702 kg	-0.5706	volleyball	Irvine, Oakland	0.2856	1679	1.5196	track & field	-249 m	Fremont, Los Angeles, San Diego	-0.7513	0.6481
+4	2428 kg	0.4323	basketball	San Francisco, Long Beach	0.0476	444	1.6216	badminton	-29 m	Stockton	-0.4514	-0.298
+2	-641 kg	1.6922	volleyball	Irvine	0.2797	148	0.7447	motor sports	685 m	San Diego, Los Angeles, San Bernardino, Fremont	-0.0054	1.1288
+2	258 kg	-0.2496	volleyball	Oakland	0.6834	306	1.7024	running	1438 m	Sacramento	1.3229	-0.3798
+4	826 kg	0.4144	BASKETBALL	Long Beach	-0.0092	1423	0.8562	soccer	17 m	Moreno Valley, Modesto	1.0896	0.1171
+1	164 kg	0.1992	baseball	Riverside, Modesto	-0.0148	824	0.3483	track & field	439 m	Chula Vista, Santa Ana, San Jose	-0.7388	-0.0773
+5	1818 kg	0.6503	GOLF	Stockton	2.7935	1905	-0.1567	basketball	-439 m	Santa Clarita	0.4239	-0.069
+0	1829 kg	0.3902	tennis	San Diego, Sacramento, Bakersfield	0.4246	2746	1.0551	baseball	545 m	Fresno	-0.1124	0.9679
+3	-1309 kg	2.4126	baseball	San Jose	1.0876	297	0.8034	badminton	178 m	San Francisco	2.6787	0.2391
+3	629 kg	-0.779	baseball	Santa Clarita	0.6135	3	0.7474	badminton	621 m	Riverside	-0.6261	-1.3932
+1	-1781 kg	-1.7809	track & field	Riverside, Santa Ana, Modesto	0.9101	111	0.4386	track & field	150 m	Anaheim, Irvine, Chula Vista	0.7167	0.9502
+3	209 kg	0.9896	baseball	Santa Clarita	-0.148	2055	-0.0634	badminton	162 m	San Francisco	2.4894	0.8536
+0	1058 kg	0.3377	tennis	San Diego	0.4259	796	0.5815	baseball	None	Fresno	0.8454	0.4047
+5	1067 kg	1.6311	running	Stockton	0.5779	-148	-0.4742	basketball	-997 m	Santa Clarita	0.2185	0.5219
+5	1114 kg	1.2819	golf	Stockton	0.1531	-66	0.4416	basketball	1171 m	Fresno	-0.1516	1.8363
+1	2078 kg	0.8575	motor sports	Riverside, Fresno	0.4635	-278	1.9448	golf	74 m	Irvine	0.5841	1.3594
+2	833 kg	1.0922	volleyball	Irvine	-0.0017	1127	1.3852	running	2057 m	San Diego, Oakland, San Bernardino, Los Angeles	1.3541	0.515
+0	-478 kg	1.4413	tennis	Los Angeles, Anaheim	2.1454	801	-0.963	baseball	1399 m	Sacramento	1.0829	0.2746
+5	1198 kg	-0.0518	ice hockey	Stockton	0.4562	-397	0.4011	basketball	1556 m	Long Beach	0.0945	0.3689
+3	-112 kg	0.8409	boxing	San Jose	1.0855	-944	0.8957	ice hockey	72 m	irvine, santa ana, san jose	0.704	0.3682
+4	303 kg	-0.2233	basketball	San Francisco	-0.1503	455	0.0156	soccer	1961 m	Moreno Valley	0.3408	0.4471
+5	-273 kg	-0.2456	golf	Sacramento, Fremont, Anaheim	-0.5809	146	0.8157	basketball	2804 m	Long Beach	-0.331	0.3703
+0	418 kg	1.3382	football	Fremont, Los Angeles, Sacramento, San Diego, Bakersfield	1.5364	1149	1.1131	BASEBALL	577 m	Sacramento	1.037	0.909
+0	-1012 kg	1.1563	tennis	Anaheim, Sacramento, San Diego, Los Angeles, Bakersfield	1.1873	1134	0.3024	baseball	682 m	Fresno	2.4446	0.728
+1	1372 kg	0.8261	motor sports	Santa Ana, Moreno Valley	0.1688	-435	0.785	golf	527 m	Anaheim, Santa Ana, Chula Vista, San Jose	-0.0346	1.1477
+4	619 kg	-0.2743	basketball	San Bernardino	-1.3557	789	0.6658	soccer	-458 m	?	0.1996	0.5171
+2	876 kg	0.4846	volleyball	Irvine	0.3813	1626	1.4447	boxing	1902 m	Los Angeles, Fremont, San Diego	n/a	-0.3648
+5	1477 kg	0.5396	basketball	Stockton	1.3996	1254	NULL	basketball	1216 m	Long Beach	0.8296	?
+2	-426 kg	0.6765	volleyball	N/A	-0.7118	1183	-1.8271	running	730 m	Los Angeles, Oakland, San Diego, Fremont	0.692	0.6431
+2	186 kg	-0.8971	volleyball	Irvine, Chula Vista	0.6743	1187	-1.1848	basketball	-869 m	Oakland, San Bernardino	0.9464	0.6062
+5	-247 kg	0.2771	running	Stockton	0.6032	832	0.6796	basketball	-2559 m	Santa Clarita	-0.2272	0.6581
+4	943 kg	-0.2317	ice hockey	Long Beach, San Francisco	1.3382	1360	1.8108	soccer	1912 m	Stockton, Moreno Valley	0.7392	0.5753
+1	1233 kg	1.6123	volleyball	Moreno Valley, Santa Ana	0.7682	-313	1.3459	track & field	1836 m	Chula Vista, Bakersfield, Santa Ana, San Jose	1.6501	-0.3774
+0	308 kg	0.8694	tennis	Anaheim	0.1923	627	1.1373	baseball	-522 m	Sacramento	0.9407	0.1912
+2	-558 kg	1.1053	volleyball	Oakland, Irvine	-0.2415	1360	-0.2171	motor sports	2065 m	Long Beach	0.9744	1.3324
+5	-11 kg	-0.4014	golf	Stockton	0.7704	1367	-1.8899	basketball	1896 m	Long Beach	-0.0861	-0.2914
+3	331 kg	1.0196	baseball	San Jose	0.972	368	0.6991	ice hockey	-1374 m	San Francisco	0.0399	0.3147
+5	274 kg	-0.7024	golf	Stockton	-0.5462	1611	1.5429	basketball	228 m	Long Beach	0.8465	1.6379
+3	489 kg	-0.6055	boxing	San Jose	0.2053	-1521	0.2557	volleyball	-180 m	San Francisco	0.4631	1.1651
+2	-2178 kg	0.3737	volleyball	Chula Vista, Irvine	0.1371	513	1.5712	football	-859 m	Oakland	1.5895	0.6532
+4	704 kg	0.16	ice hockey	San Bernardino	0.6152	1031	-0.7521	soccer	1609 m	Moreno Valley, Modesto	0.2883	-0.1691
+1	18 kg	-0.2179	motor sports	Santa Ana, Fresno, Moreno Valley, Modesto	1.8096	-476	0.7922	track & field	1034 m	Chula Vista, Irvine, Santa Ana, Anaheim, San Jose	2.5046	0.8854
+5	856 kg	0.1956	badminton	Stockton	-0.3225	2827	0.7167	basketball	632 m	Long Beach	1.09	0.2032
+5	1605 kg	0.3325	golf	Stockton	0.147	1822	1.2503	basketball	111 m	Santa Clarita	0.1126	0.648
+2	457 kg	0.245	volleyball	Chula Vista, Irvine	0.5199	1263	0.844	motor sports	1894 m	Los Angeles	1.9997	-0.199
+2	-542 kg	-0.0253	volleyball	Oakland	-0.0718	975	-0.4976	football	1110 m	San Diego	1.533	-0.5814
+3	-1162 kg	1.179	baseball	Santa Clarita	-0.9496	-256	1.8296	volleyball	1968 m	Riverside	1.3155	0.0127
+3	-452 kg	0.7735	boxing	Santa Clarita	-0.0957	789	-0.5774	BADMINTON	820 m	Riverside	0.4604	-1.0884
+3	-315 kg	1.025	volleyball	Santa Clarita	2.0482	1066	0.4117	volleyball	791 m	Riverside	0.5279	1.1859
+0	479 kg	0.4443	football	Los Angeles, Bakersfield, Anaheim	1.4362	N/A	0.8389	baseball	-964 m	Fresno	1.0926	-0.318
+1	485 kg	0.1596	tennis	Fresno	1.5476	962	-0.6044	golf	1638 m	Bakersfield, Chula Vista, Irvine, Santa Ana	-0.7458	0.8752
+0	2108 kg	-0.6939		Los Angeles, San Diego	0.3321	406	0.4996	baseball	808 m	Sacramento	1.0267	0.4563
+3	-34 kg	0.4602	baseball	San Jose	0.5546	578	0.0067	badminton	424 m	riverside	0.1576	0.4627
+5	116 kg	1.0633	golf	stockton	0.777	733	-0.0098	basketball	1294 m	Long Beach	0.7213	0.9176
+4	762 kg	0.4555	volleyball	Fresno, Modesto, Santa Ana	0.456	701	1.3935	SOCCER	26 m	Stockton, Moreno Valley	-0.0721	-0.3237
+0	1599 kg	0.4484	football	Sacramento, Los Angeles, Bakersfield, Fremont, Anaheim	0.8801	587	0.795	baseball	-1174 m	Fresno	1.2789	-0.3116
+1	689 kg	0.1806	motor sports	San Francisco, San Bernardino	1.5954	415	-2.0493	golf	600 m	Chula Vista	0.6709	0.4976
+1	-823 kg	1.0293	running	Fresno, Moreno Valley	0.5596	-563	-0.019	golf	-987 m	bAKERSFIELD	-0.1443	1.2217
+3	1226 kg	-0.0734	boxing	San Jose	0.8858	1295	0.3752	ice hockey	805 m	Riverside	0.4858	1.0767
+1	877 kg	1.0296	running	Santa Ana, Fresno	1.1547	-589	-0.9097	golf	381 m	Bakersfield, San Jose	1.2488	1.7211
+0	24 kg	0.0337	football	Los Angeles, Fremont, Bakersfield, San Diego, Sacramento	1.1039	843	-0.1293	baseball	144 m	Fresno	0.146	0.271
+0	1177 kg	0.5011	golf	Stockton	-0.3908	-113	0.296	baseball	1235 m	Fresno	-0.2638	-0.6589
+5	1754 kg	0.9994	running	Stockton	1.3444	1466	-0.0332	basketball	310 m	Long Beach	0.2851	0.9041
+5	1289 kg	0.3327	running	Stockton	0.1453	1343	0.6043	basketball	419 m	sANTA cLARITA	0.7997	0.4517
+1	1003 kg	1.1653	track & field	Santa Ana, Riverside, Fresno	-1.5565	-789	-0.1668	track & field	504 m	Bakersfield, San Jose, Santa Ana, Chula Vista, Anaheim	1.0632	0.1288
+4	1531 kg	0.7104	ice hockey	San Bernardino	-0.2722	1168	1.1938	soccer	1384 m	Stockton, Moreno Valley	0.5668	0.7157
+4	408 kg	0.2866	basketball	Long Beach, San Francisco	-0.6929	476	0.4899	soccer	1395 m	Stockton, Moreno Valley	0.5868	-0.0163
+1	-37 kg	0.4865	motor sports	Fresno, Riverside, Modesto, Moreno Valley	0.9439	-285	0.3768	track & field	-624 m	San Jose, Santa Ana, Anaheim	-0.4592	1.9423
+4	627 kg	-0.0771	ICE HOCKEY	Long Beach, San Francisco	0.4769	1316	-1.57	SOCCER	1888 m	Moreno Valley	0.4823	0.0533
+4	2139 kg	0.6221	basketball	San Francisco, San Bernardino	-0.1684	1088	0.4355	soccer	538 m	Moreno Valley	-1.2028	1.6612
+5	154 kg	-0.141	running	Stockton	2.1727	1138	0.4451	basketball	-116 m	Santa Clarita	0.0293	0.7297
+0	-260 kg	-0.0757	soccer	San Diego, Sacramento, Anaheim, Fremont, Los Angeles	1.0192	-9	0.5652	baseball	1219 m	Sacramento	2.1918	0.6971
+4	1175 kg	0.5922	ice hockey	San Francisco, Long Beach	-0.3867	-177	-0.7206	soccer	-2 m	Modesto, Stockton	0.4907	-0.2296
+4	1357 kg	1.6049	soccer	San Francisco	-0.134	861	0.6445	soccer	233 m	Stockton	-0.3464	0.5186
+3	-208 kg	-0.3654	boxing	Santa Clarita	0.206	635	1.1114	BADMINTON	2705 m	Riverside	1.249	-0.3849
+1	-1021 kg	0.5886	motor sports	Moreno Valley, Riverside, Santa Ana, Modesto	-0.4247	961	0.9717	golf	-456 m	Chula Vista, San Jose, Irvine, Santa Ana, Bakersfield	-0.465	0.7426
+5	1975 kg	0.3665	track & field	Stockton	0.0963	1071	0.9253	basketball	-256 m	Long Beach	0.0841	1.2448
+4	421 kg	0.5507	basketball	San Bernardino, Long Beach	0.3077	2865	1.9463	soccer	2356 m	Moreno Valley, Stockton	1.0179	-0.3471
+4	1068 kg	0.4873	basketball	Long Beach, San Francisco	0.267	41	0.9994	soccer	-249 m	Modesto	-0.1923	0.5885
+3	587 kg	2.1129	boxing	San Jose	1.6676	-83	0.6929	ice hockey	-1061 m	Riverside	0.7435	1.4634
+4	-5 kg	1.4647	ice hockey	San Francisco	0.2563	1350	-0.7697	soccer	NULL	Modesto, Stockton	1.0806	0.0129
+4	3777 kg	1.0413	basketball	Oakland, Chula Vista	1.4958	-99	0.1362	soccer	1204 m	Modesto	0.9291	0.1405
+0	125 kg	1.6218	soccer	Los Angeles, San Diego, Bakersfield, Fremont	1.5018	919	1.3673		289 m	Santa Clarita	2.3488	0.8326
+2	15 kg	0.6403	volleyball	Oakland, Irvine	-0.1903	732	-0.1703	football	-361 m	fremont, san diego, los angeles	1.7254	1.5688
+1	1588 kg	-1.166	volleyball	Fresno, Riverside	2.0255	-144	0.2704	track & field	1855 m	Bakersfield	0.3033	1.249
+4	1965 kg	0.9307	ice hockey	Long Beach, San Bernardino	1.9233	667	1.4043	soccer	-888 m	Modesto, Stockton	0.3585	-0.8474
+3	-1338 kg	0.9599	boxing	Santa Clarita	-0.8129	-593	-0.6032	baseball	-1647 m	San Francisco	1.0557	-0.2111
+0	1521 kg	0.9876	tennis	Sacramento, Fremont, Anaheim	0.7863	1158	1.8317	baseball	2723 m	Sacramento	0.7817	-0.5105
+4	1805 kg	0.6532	basketball	Santa Clarita	0.8774	470	1.1807	soccer	N/A	Modesto, Stockton	-0.6688	1.1486
+2	1264 kg	1.1128	volleyball	Irvine, Oakland	0.4578	351	0.0224	running	2124 m	Los Angeles, Oakland, San Bernardino	1.5501	0.4468
+4	496 kg	0.7672	BASKETBALL	San Bernardino	-0.0451	1417	1.2833	soccer	1148 m	Modesto	-0.4914	?
+2	337 kg	0.2611	Baseball	Chula Vista, Oakland	-0.0442	1353	1.3224	motor sports	1810 m	Riverside	1.8325	-0.1923
+1	1004 kg	1.0754	motor sports	Modesto, Riverside, Santa Ana	0.3837	-104	-0.4608	track & field	-459 m	Irvine, San Jose, Anaheim	1.0887	1.0597
+5	-132 kg	0.7691	baseball	Fresno	0.9037	2255	-0.0109	BASKETBALL	-45 m	Bakersfield	-0.4198	0.5175
+1	323 kg	0.171	motor sports	Modesto, Santa Ana, Moreno Valley, Riverside	1.9511	-119	-0.5596	track & field	464 m	Chula Vista, Bakersfield, Santa Ana, Irvine	0.8228	1.6415
+5	1034 kg	0.9089	golf	Chula Vista	0.127	394	1.3508	basketball	281 m	Santa Clarita	0.3181	0.65
+4	2787 kg	0.0359	basketball	San Francisco, San Bernardino	0.1794	1142	1.9699	soccer	1103 m	Moreno Valley, Stockton	0.671	-0.787
+4	881 kg	0.6596	ice hockey	San Bernardino	1.2163	478	0.0067	soccer	1634 m	Moreno Valley	-0.9516	-0.3605
+3	-586 kg	0.6279	baseball	Santa Clarita	0.7069	-180	1.1491	volleyball	636 m	sAN fRANCISCO	1.8381	0.4055
+0	56 kg	-0.4273	football	Bakersfield	0.8166	751	1.0314	baseball	1638 m	Fresno	0.9424	-0.6625
+3	-1690 kg	0.936	baseball	Santa Clarita	0.0959	-1128	0.2009	ice hockey	1020 m	San Francisco	2.2396	1.2235
+1	379 kg	0.4121	track & field	Santa Ana	-0.0763	-96	1.3497	track & field	466 m	Long Beach	0.6707	0.5684
+3	-99 kg	2.9669	baseball	Long Beach	1.1549	472	1.1613	volleyball	891 m	San Francisco	1.4422	-0.4287
+2	536 kg	1.475	volleyball	Chula Vista, Irvine	0.2708	1220	0.0257	motor sports		Long Beach	0.2356	0.7206
+4	482 kg	0.4862	basketball	Long Beach	1.2351	1027	1.5635	basketball	-1341 m	Moreno Valley, Modesto	0.9803	-0.0923
+3	2400 kg	0.7785	baseball	Chula Vista	0.4156	-874	-0.1382	tennis	-1550 m	Riverside	-0.1578	0.2402
+0	1189 kg	-0.5507	soccer	San Diego, Bakersfield, Anaheim, Fremont	-0.0302	1106	2.0709	baseball	481 m	Fresno	0.6011	1.827
+5	1992 kg	0.0869	running	Stockton	0.6297	-975	-0.0473	basketball	2092 m	Santa Clarita	1.0329	0.1902
+1	955 kg	1.181	motor sports	Fresno, Modesto, Santa Ana	2.1398	797	3.8266	track & field	1920 m	Irvine, Santa Ana, Bakersfield	1.3778	0.9371
+3	-850 kg	1.8317	boxing	Santa Clarita	0.1462	817	0.9725	ice hockey	-247 m	Riverside	0.1876	0.7997
+3	412 kg	-0.0459	boxing	Santa Clarita	1.0587	-491	1.2408	volleyball	419 m	Riverside	0.7667	0.8895
+1	-1039 kg	1.1501	track & field	Modesto, Fresno, Moreno Valley	0.9706	815	0.5811	TRACK & FIELD	-302 m	Anaheim	0.7561	1.5427
+2	567 kg	0.336	volleyball	Oakland, Chula Vista	0.2054	1262	0.6727	football	1696 m	Oakland, Fremont	1.6878	0.8953
+1	573 kg	0.435	motor sports	Fresno, Moreno Valley	1.4401	1429	-0.5825	golf	-238 m	Long Beach	0.9439	2.2093
+1	1095 kg	1.4328	track & field	Moreno Valley, Modesto, Santa Ana	-1.3971	397	1.2387	golf	389 m	Irvine, Bakersfield	-0.477	1.7065
+1	1254 kg	0.2312	motor sports	santa ana, riverside, moreno valley, fresno	0.5695	848	-0.827	track & field	-526 m	Anaheim, Santa Ana, Chula Vista, Irvine	1.1122	1.8112
+3	-491 kg	0.947	baseball	Santa Clarita	0.039	508	0.467	tennis	191 m	N/A	1.0018	N/A
+4	-580 kg	0.395	ice hockey	Long Beach, San Bernardino	NULL	2048	-0.1108	soccer	121 m	mODESTO	-0.091	-0.1599
+4	2707 kg	0.2513	ice hockey	Long Beach, San Bernardino	None	448	1.8418	soccer	-811 m	Stockton	0.1774	-0.8922
+0	923 kg	-0.6219	soccer	San Diego, Anaheim	1.4018	145	-0.1972	baseball	2256 m	Fresno	0.5249	1.688
+5	-544 kg	0.8769	running	Stockton	0.8336	1186	0.5071	basketball	634 m	Long Beach	1.8723	0.8151
+1	182 kg	-1.0386	motor sports	Santa Ana, Modesto, Moreno Valley	0.5924	-14	2.2992	golf	615 m	Chula Vista, Santa Ana	0.1492	0.6535
+5	1696 kg	1.0666	badminton	Stockton	1.3234	529	-0.33	basketball	-1171 m	Santa Clarita	0.6004	1.559
+3	-233 kg	0.7033	boxing	Santa Clarita	-0.1752	19	-0.7074	volleyball	569 m	Riverside	1.2969	1.2276
+3	-340 kg	1.0685	boxing	Irvine, Chula Vista	0.9879	-10	0.7267	volleyball	84 m	RIVERSIDE	-0.083	-0.545
+0	1054 kg	2.0415	Football	Los Angeles	1.6398	1574	0.7991	baseball	-117 m	Fresno	1.9774	-0.6674
+3	114 kg	1.2679	baseball	San Jose	0.0201	675	1.8384	tennis	1094 m	Riverside	0.0309	0.1336
+0	79 kg	0.2278	football	Fremont, Anaheim, Sacramento, Los Angeles	1.3907	2594	-0.005	baseball	1319 m	Sacramento	1.4242	2.0569
+4	-972 kg	-1.0792	basketball	Long Beach, San Bernardino	1.2986	-32		soccer	1518 m	Modesto, Moreno Valley	-0.4174	0.4737
+3	305 kg	1.3164	badminton	San Jose	-0.0823	67	1.1281	ice hockey	1121 m	Riverside	0.0651	0.2492
+5	1162 kg	0.0833	badminton	Stockton	-0.4826	1277	-0.5408	basketball	-82 m	Santa Clarita	1.3292	0.7597
+2	459 kg	0.6165	VOLLEYBALL	Chula Vista	-1.3309	1619	0.4972	motor sports	1484 m	Stockton	-0.5487	0.4464
+0	-99 kg	1.5219	football	San Diego, Sacramento	2.0693	844	0.4186	baseball	2843 m	Sacramento	1.8447	0.6296
+1	937 kg	0.6682	track & field	Moreno Valley	0.4445	-9	1.399	golf	1249 m	Irvine, Bakersfield, Anaheim, Santa Ana	0.4205	0.5808
+2	602 kg	0.2421	volleyball	Irvine, Oakland	0.5878	-470	0.0934	boxing	1364 m	Fremont	-0.1673	1.3041
+1	79 kg	-0.9843	TRACK & FIELD	Modesto, Moreno Valley	1.0132	248	0.169	golf	-1038 m	San Jose, Anaheim	0.2054	0.3884
+2	469 kg	0.9212	volleyball	Irvine, Chula Vista	0.3742	1196	0.6946	football	189 m	Los Angeles	1.2245	0.7443
+0	1125 kg	0.366	tennis	Los Angeles	0.0859	879	0.8767	baseball	1273 m	Sacramento	-0.0502	0.7087
+2	978 kg	-0.069	volleyball	Irvine, Oakland	-0.2471	1625	1.2051	boxing	418 m	San Diego, San Bernardino, Los Angeles, Fremont	1.9871	0.3984
+1	207 kg	-0.2456	track & field	Santa Ana, Fresno, Moreno Valley	-0.7802	-140	1.3778	golf	-846 m	Bakersfield	0.9361	-0.1169
+3	-3 kg	1.1312	boxing	San Jose	1.8266	807	0.6784	ice hockey	206 m	Riverside	0.7951	1.4714
+3	1503 kg	0.573	boxing	Sacramento, Bakersfield, Los Angeles, San Diego	0.1035	-230	2.6794	baseball	404 m	Riverside	0.8376	0.1709
+4	3849 kg	0.9924	basketball	Long Beach	1.1462	1022	0.0563	soccer	2358 m	Stockton, Modesto	-0.176	0.3104
+3	167 kg	0.6287	boxing	Santa Clarita	-0.4787	-1052	1.8269	ice hockey	-630 m	San Francisco	0.8633	-0.5996
+1	-185 kg	0.7183	motor sports	Moreno Valley, Modesto, Santa Ana, Riverside	-1.3993	513	-0.774	GOLF	1355 m	Anaheim	1.4167	0.0793
+0	2545 kg	-0.2181	football	Irvine, Oakland	0.1801	1899	1.2789	baseball	1234 m	Sacramento	0.2246	0.3556
+2	2117 kg	0.574	volleyball	Oakland, Chula Vista	1.9537	315	0.985	motor sports	954 m	San Diego	0.9239	-0.0922
+3	1234 kg	0.6489	boxing	Santa Clarita	0.4587	1416	1.2428	volleyball	-798 m	Los Angeles	1.6705	-0.0173
+0	-91 kg	0.6377	tennis	Anaheim, Bakersfield, Los Angeles	0.2481	90	0.1658	baseball	-325 m	Sacramento	1.7955	0.7436
+5	388 kg	0.0849	badminton	Stockton	-0.222	1980	0.9247	basketball	2222 m	Long Beach	1.2214	1.04
+1	972 kg	0.1156	volleyball	Oakland	-1.1477	1091	-0.6401	track & field	1384 m	Anaheim	1.668	0.1767
+0	162 kg	0.589	tennis	Fremont, San Diego	-0.3203	1244	1.6543	baseball	1681 m	Sacramento	2.263	-0.1241
+0	105 kg	0.7092	football	Fremont	0.6329	1048	1.4702	soccer	1329 m	Sacramento	0.8987	0.396
+1	-1850 kg	1.0464	track & field	Anaheim, Fremont, Sacramento, Los Angeles, San Diego	0.1084	-331	0.4502	track & field	-456 m	Bakersfield, San Jose, Anaheim	0.4228	0.0158
+0	126 kg	-0.3603	tennis	Sacramento, Bakersfield, Fremont	0.3083	417	1.7856	baseball	1316 m	Fresno	1.5241	-0.1657
+5	1439 kg	0.7364	golf	Stockton	-0.4882	332	-1.2937	basketball	674 m	Stockton, Modesto	1.0834	0.9099
+0	-13 kg	1.0172	tennis	San Diego, Bakersfield, Sacramento, Fremont, Anaheim	1.201	241	-0.3093	baseball	-793 m	Sacramento	2.0198	1.1304
+0	1785 kg	1.2023	soccer	Riverside, Moreno Valley, Fresno, Modesto	1.0427	1028	-0.754	baseball	2168 m	Stockton	0.3514	N/A
+3	703 kg	-0.2384	boxing	Santa Clarita	1.2246	-1027	-0.4756	tennis	-266 m	San Francisco	-0.2891	0.2099
+4	1435 kg	1.2327	basketball	San Francisco, San Bernardino	2.0491	357	1.9865	football	-250 m	Moreno Valley, Modesto	0.862	0.8996
+0	1257 kg	2.1313	volleyball	Bakersfield, Anaheim, Los Angeles	1.3151	1774	2.0652	motor sports	997 m	Fresno	-0.1149	0.9426
+0	-1044 kg	0.9593	TENNIS	Bakersfield, Sacramento, San Diego, Anaheim, Los Angeles	0.1852	501	0.6796	baseball	518 m	Sacramento	1.3626	0.1469
+5	777 kg	1.1505	volleyball	Stockton	0.1517	1694	0.919	basketball	2098 m	Santa Clarita	0.5341	2.2775
+5	-85 kg	0.9579	golf	Stockton	None	988	-0.0434	basketball	821 m	Santa Clarita	-0.0744	0.6052
+5	928 kg	0.3542	golf	STOCKTON	0.1187	984	-0.9572	basketball	1994 m	Long Beach	0.7194	1.6571
+4	-784 kg	1.6374	ice hockey	Chula Vista	0.2931	91	-0.5743	soccer	673 m	moreno valley	0.681	0.9423
+5	500 kg	1.6218	badminton	Stockton	0.148	1126	-0.3203	basketball	276 m	Santa Clarita	1.7674	0.4903
+5	2069 kg	0.3974	running	Stockton	1.6006	-728	0.2913	basketball	-896 m	Santa Clarita	-0.2313	0.5204
+5	1422 kg	0.5439	running	Stockton	1.3213	546	-1.6953	basketball	-6 m	Santa Clarita	-0.1098	-0.3128
+0	643 kg	0.2304	Soccer	Bakersfield, San Diego, Anaheim, Los Angeles, Sacramento	0.8846	1188	0.9058	baseball	-76 m	SACRAMENTO	0.2573	-0.6495
+5	1313 kg	1.1033	golf	Stockton	0.3157	1496	-0.5992	basketball	1829 m	LONG BEACH	-0.2465	0.7416
+3	-27 kg	0.9325	boxing	San Jose	1.4296	289	0.5234	badminton	-583 m	Riverside	0.74	0.7534
+5	1028 kg	1.6128	golf	Stockton	-0.0577	736	-0.7628	basketball	48 m	Santa Clarita	0.3699	-0.7262
+4	1838 kg	-0.6156	ice hockey	San Francisco, Long Beach	1.5619	783	1.0889	soccer	-693 m	Stockton	-0.9357	-0.9183
+3	431 kg	1.5041	badminton	San Jose	0.8452	83	1.6152	Volleyball	-1548 m	Riverside	-0.478	-1.223
+3	-912 kg	0.5231	baseball	Santa Clarita	1.4164	69	0.9773	badminton	15 m	Riverside	0.3356	2.1062
+1	609 kg	-0.1681	motor sports	Riverside	0.2672	960	1.3376	track & field	-719 m	Santa Ana, Anaheim, Irvine, Bakersfield, San Jose	-0.0243	None
+3	-151 kg	1.2323	boxing	Oakland, Chula Vista	0.7935	800	-0.0896	badminton	135 m	San Francisco		-0.2065
+1	888 kg	1.6306	motor sports	Riverside, Santa Ana, Fresno, Modesto	None	-823	1.2609	GOLF	-729 m	San Jose, Bakersfield, Chula Vista, Santa Ana	0.0403	0.485
+2	-493 kg	0.5154	volleyball	Fremont	1.0622	1950	0.5182	football	-905 m	San Diego, Los Angeles	1.479	0.4674
+2	-567 kg	0.2246	volleyball	San Bernardino, Long Beach	0.78	41	0.2244	motor sports	1549 m	San Diego, Fremont	0.3919	2.3893
+5	1758 kg	0.408	RUNNING	Stockton	0.82	1015	-1.4559	basketball	798 m	Long Beach	0.2718	0.0313
+0	-490 kg	0.9099	tennis	Bakersfield, Sacramento	0.494	648	0.9521	baseball	838 m	Fresno	1.1997	0.1192
+0	660 kg	0.739	soccer	Bakersfield, Fremont, San Diego, Los Angeles, Anaheim	1.4234	70	1.6592	baseball	1572 m	Fresno	0.6981	0.2409
+3	869 kg	0.8393	baseball	Sacramento, Bakersfield, San Diego, Los Angeles, Anaheim	0.1722	713	N/A	volleyball	-1144 m	Riverside	1.1878	0.9995
+5	174 kg	0.0617	motor sports	Stockton	-0.1182	1648	0.3193	basketball	-520 m	Long Beach	0.2342	1.0217
+5	1226 kg	0.6127	badminton	Stockton	1.22	1913	-0.7319	basketball	1364 m	Long Beach	1.5933	-0.199
+3	-1074 kg	0.2565	boxing	San Jose	-0.0461	-676	1.7596	volleyball	1132 m	San Francisco	-1.894	n/a
+2	1012 kg	0.7554	volleyball	Irvine	0.5821	1129	-0.0846	boxing	2128 m	Los Angeles, Fremont	0.4354	2.1373
+3	609 kg	0.3617	baseball	San Jose	1.866	106	0.5088	volleyball	456 m	Riverside	0.9117	1.2702
+4	3079 kg	1.4082	ice hockey	San Francisco, Long Beach	0.3159	1420	-1.3037	baseball	-880 m	Stockton, Moreno Valley	0.5712	0.7136
+4	0 kg	0.5446	ice hockey	San Francisco	-0.0474	1537	1.3652	tennis	175 m	Moreno Valley, Modesto	0.8364	-0.1563
+1	217 kg	1.3943	track & field	Modesto, Riverside, Moreno Valley	-0.4528	-96	1.0412	track & field	1358 m	Irvine, San Jose, Anaheim, Bakersfield	-1.1973	1.4229
+3	2231 kg	0.011	baseball	San Jose	0.8371	355	1.1335	volleyball	-125 m	San Francisco	-0.3126	0.5831
+1	-1096 kg	0.3006	motor sports	San Jose	1.2322	1061	1.3447	track & field	180 m	Anaheim, Chula Vista, Santa Ana, Bakersfield, Irvine	-0.6632	1.6277
+0	556 kg	0.0328	soccer	Sacramento, San Diego, Fremont, Los Angeles, Anaheim	0.2532	748	1.8353	badminton	2124 m	Fresno	0.4602	1.4917
+0	1528 kg	1.3604	football	San Diego, Los Angeles, Anaheim, Sacramento, Fremont	2.0636	501	1.7215	baseball	1128 m	Fresno	0.7246	-0.5271
+2	282 kg	0.7906	volleyball	Irvine	2.1971	468	0.868	BOXING	33 m	Fresno	0.2146	0.7734
+1	2217 kg	0.2014	motor sports	Modesto	0.1872	-566	0.8272	golf	795 m	Moreno Valley	0.4654	1.089
+3	852 kg	0.4512	baseball	San Bernardino, San Francisco	0.7023	393	0.4705	badminton	29 m	Riverside	0.3879	-0.4276
+1	-1534 kg	0.6161	track & field	Santa Ana	0.7381	-329	1.3041	golf	337 m	Anaheim, Bakersfield, San Jose	-0.3942	0.1769
+5	87 kg	0.0262	badminton	Stockton	-0.6314	1628	0.2727	soccer	-628 m	Long Beach	-0.3822	-0.904
+4	2163 kg	0.3981	running	Long Beach	0.0385	1256	1.2311	soccer	1496 m	Moreno Valley, Stockton	0.6565	-0.0625
+3	-932 kg	-0.5973	boxing	Santa Clarita	0.5183	515	0.0451	golf	121 m	N/A	-0.7006	0.8729
+5	1470 kg	-0.3058	running	Stockton	0.9697	-520	0.6448	basketball	-1790 m	Long Beach	1.2745	0.4699
+5	99 kg	1.4533	golf	Stockton	1.9514	629	1.863	basketball	-700 m	Santa Clarita	0.8733	0.5491
+5	796 kg	-0.2147	badminton	Stockton	0.1886	415	-1.1372	basketball	29 m	Santa Clarita	0.2111	-0.0837
+4	990 kg	0.6478	ice hockey	Long Beach	-0.4001	1871	-0.6732	soccer	1312 m	Moreno Valley	0.5822	1.3308
+4	292 kg	-0.0941	basketball	San Bernardino, San Francisco	0.3985	434	-0.3012	soccer	192 m	Modesto	0.094	0.9292
+3	-106 kg	0.9654	volleyball	San Jose	0.452	132	0.5506	ice hockey	1383 m	Riverside	0.349	-1.6339
+3	84 kg	2.0631	running	Santa Clarita	0.1696	1361	0.6777	golf	1623 m	Riverside	-0.3657	0.1466
+4	-589 kg	0.4445	basketball	Stockton	1.0007	-339	1.2234	soccer	-687 m	Modesto, Stockton	0.6477	-0.4226
+0	118 kg	0.0403	FOOTBALL	Anaheim, Sacramento, Fremont, San Diego, Los Angeles	-0.4005	NULL	1.5991	basketball	-33 m	Fresno	-0.0929	-0.1905
+2	2908 kg	-0.0087	volleyball	Irvine	0.4983	1217	1.8154	running	1819 m	Oakland, San Diego	0.9653	0.9286
+3	-22 kg	1.3517	boxing	San Jose	0.8698	124	-0.1444	tennis	-775 m	San Francisco	0.0817	0.208
+3	784 kg	0.835	baseball	Chula Vista, Irvine	1.4105	1227	1.0241	tennis	613 m	Riverside	0.7445	0.9084
+0	2659 kg	0.9243	soccer	Anaheim, San Diego, Fremont	-0.3882	2848	0.6739	baseball	486 m	Sacramento	1.1623	-0.8716
+0	-1353 kg	0.338	soccer	Sacramento, Bakersfield, Anaheim, Fremont, Los Angeles	0.2811	-211	-0.1014	baseball	748 m	Fresno	0.6899	1.2658
+5	103 kg	0.0548	golf	Stockton	0.0232	219	-1.3693	basketball	2227 m	Santa Clarita	0.479	0.0222
+3	-1239 kg	0.5182	baseball	San Francisco, Long Beach	0.7312	NULL	1.4933	tennis	740 m	Riverside	-0.4963	-0.1774
+0	-3032 kg	0.6828	football	Anaheim, Los Angeles	-0.3544	1838	0.1009	BASEBALL	-443 m	Fresno	1.0317	0.1283
+2	1060 kg	1.0108	volleyball	Irvine, Chula Vista	1.5391	1167	-0.0817	motor sports	419 m	Los Angeles	1.3261	0.993
+3	552 kg	0.5339	boxing	Santa Clarita	1.7493	945	-0.5658	ice hockey	643 m	San Francisco	-0.0055	-0.4729
+3	-879 kg	2.0944	boxing	Santa Clarita	0.145	305	-0.0285	volleyball	-1814 m	Riverside	0.5401	0.3655
+5	698 kg	0.3619	motor sports	Stockton	0.5617	1738	0.0565	basketball	-358 m	Santa Clarita	2.148	0.1408
+4	1043 kg	0.3943	basketball	San Francisco	1.1043	1730	0.8496	soccer	-168 m	Stockton	-1.4823	1.916
+0	1014 kg	0.921	football	San Jose	1.2347	1091	-0.512	baseball	1846 m	Sacramento	-1.1777	1.1138
+2	2773 kg	0.3733	volleyball	Chula Vista	0.2349	678	1.8884	boxing	586 m	Los Angeles, San Bernardino, Oakland	0.7796	0.9619
+3	15 kg	0.0897	baseball	Modesto, Fresno	2.0967	414	1.1478	badminton	-2070 m	Riverside	NULL	0.724
+5	1398 kg	1.2509	golf	Stockton	0.5668	-34	0.5771	basketball	899 m	Santa Clarita	-1.1937	1.0708
+0	687 kg	0.3139	tennis	San Bernardino, San Francisco	0.143	584	0.1123	baseball	1746 m	SACRAMENTO	0.4947	1.0623
+2	-279 kg	0.9731	track & field	Modesto, Riverside, Moreno Valley	0.219	1052	-0.3469	running	1636 m	San Diego	1.7406	1.3822
+3	545 kg	0.3474	baseball	Santa Clarita	1.8934	1207	1.2583	volleyball	1213 m	San Francisco	1.3843	0.9343
+2	-336 kg	0.1335	volleyball	Chula Vista, Oakland	0.2802	-318	0.6622	motor sports	202 m	Los Angeles, San Bernardino, Oakland	1.7263	1.4561
+2	888 kg	0.9859	volleyball	Oakland, Irvine	0.9084	191	1.4956	football	-349 m	Fremont, San Bernardino	1.4608	1.013
+1	1717 kg	1.2238	track & field	Moreno Valley, Santa Ana	0.988	-59	-0.0279	golf	1756 m	Bakersfield, San Jose, Anaheim	-0.1697	0.8769
+0	55 kg	0.9371	soccer	Sacramento, Anaheim, San Diego, Bakersfield	0.0376	-175	0.5876	baseball	2536 m	Fresno	0.0049	1.2436
+2	317 kg	0.033	volleyball	Oakland	1.2404	1025	0.6879	motor sports	1159 m	Los Angeles, Oakland, San Bernardino, San Diego	0.4039	0.2109
+3	-1536 kg	2.3934	baseball	San Jose	0.299	-114	0.7235	ice hockey	15 m	San Francisco	3.0557	-0.3305
+2	948 kg	-0.6305	volleyball	Chula Vista, Oakland	0.2687	1412	1.0968	football	1130 m	Los Angeles, San Diego	1.3692	-0.1847
+2	-296 kg	0.512	volleyball	Riverside	0.7498	1445	0.9568	football	1159 m	Los Angeles	0.8174	0.7206
+3	1258 kg	1.7214	baseball	San Jose	0.8036	-22	0.3496	tennis	1093 m	Riverside	-0.3911	-1.0435
+3	1969 kg	1.4244	boxing	Santa Clarita	1.7995	-1899	1.1969	badminton	1248 m	Riverside	0.2816	n/a
+3	1612 kg	1.5206	boxing	San Jose	0.5726	1027	0.2928	badminton	1143 m	San Francisco	0.3983	0.7857
+2	170 kg	0.4514	volleyball	Irvine	1.5744	-293	0.9224	running	-327 m	Oakland	2.1243	0.4823
+2	1402 kg	-0.877	volleyball	Oakland, Irvine	-0.5331	915	-0.011	boxing	-519 m	Oakland, Los Angeles, San Diego	0.1086	1.5858
+4	367 kg	1.2317	ice hockey	San Bernardino, San Francisco	0.4147	-222	0.8004	soccer	-336 m	Stockton, Modesto	-0.4783	-0.0939
+0	537 kg	0.3097	tennis	San Diego	0.0947	1269	0.959	baseball	315 m	Sacramento	2.1934	0.437
+0	1039 kg	0.1664	tennis	Bakersfield, San Diego, Los Angeles, Fremont	1.2494	1138	1.0887	motor sports	3033 m	Sacramento	0.4459	-0.3119
+2	127 kg	0.1781	volleyball	Chula Vista, Irvine	-1.7156	1878	-0.8539	soccer	765 m	Fremont, Oakland	2.2546	1.2153
+1	-689 kg	0.0931	track & field	Moreno Valley	0.8431	-1266	2.0135	baseball	602 m	Irvine, San Jose, Santa Ana	2.3883	0.1938
+3	-1013 kg	0.1114	baseball	Santa Clarita	0.622	750	1.6301	badminton	983 m	San Francisco	0.4371	0.3462
+1	-335 kg	0.4635	track & field	Moreno Valley, Riverside, Santa Ana, Modesto	0.8333	375	1.3009	track & field	1950 m	Irvine, Anaheim, Chula Vista, San Jose	-0.3506	0.0815
+4	1822 kg	0.0758	basketball	San Diego, Sacramento	1.234	1130	0.5615	soccer	363 m	moreno valley	-0.3693	-0.8592
+2	560 kg	1.1659	volleyball	Oakland, Irvine	1.6372	101	-0.0573	running	621 m	Oakland	1.586	1.2318
+4	-92 kg	-0.5935	volleyball	San Bernardino, San Francisco	1.199	250	0.4106	soccer	1251 m	Moreno Valley, Stockton	2.142	-1.1626
+2	-549 kg	0.7136	volleyball	Irvine, Chula Vista	0.2166	243	-1.0088	motor sports	113 m	Oakland, San Diego, San Bernardino	1.6721	1.3855
+2	883 kg	-0.3993	volleyball	Oakland, Chula Vista	0.4478	1602	0.9754	football	1732 m	San Diego	0.2611	0.7198
+3	-467 kg	-0.9356	boxing	San Jose	0.0423	201	0.9463	badminton	-372 m	San Francisco	-0.6728	-0.314
+3	90 kg	1.5724	boxing	San Jose	0.0583	-803	2.1669	volleyball	547 m	Riverside	0.0557	0.5292
+1	-142 kg	0.9155	track & field	Fresno, Santa Ana, Modesto, Moreno Valley	-0.2999	-754	1.6814	track & field	1153 m	Bakersfield	0.4917	0.6436
+1	-77 kg	-0.6363	motor sports	Modesto	0.1677	-1693	NULL	track & field	1429 m	Irvine	0.0961	0.2633
+4	791 kg	1.059	basketball	San Francisco, Long Beach	-0.1453	974	1.5066	soccer	459 m	Moreno Valley	-0.6682	-0.7818
+2	1739 kg	0.6657	volleyball	Oakland, Chula Vista	1.5212	162	1.8352	boxing	1080 m	San Bernardino, Fremont, Los Angeles	0.4536	1.1003
+0	1070 kg	0.3004	football	Los Angeles, Sacramento, Fremont	0.0764	834	0.765	baseball	996 m	Fresno	0.8256	0.8649
+2	929 kg	1.1845	ice hockey	Oakland	-0.4944	1204	1.374	running	532 m	San Bernardino, Oakland	0.9325	1.0839
+5	1317 kg	-0.149	badminton	Irvine	0.6047	1208	0.7065	basketball	1764 m	Santa Clarita	-0.6152	1.6335
+2	916 kg	-0.9608	volleyball	Oakland, Irvine	0.5118	1169	0.3268	boxing	2100 m	San Diego, Los Angeles, Fremont	0.312	-0.3345
+0	1022 kg	0.2728	football	Sacramento, San Diego, Anaheim, Fremont, Los Angeles	1.0466	1611	-0.9868	baseball	-92 m	Sacramento	-0.1522	1.3974
+5	2007 kg	1.0925	badminton	Stockton	0.0981	1275	-0.4793	Basketball	-444 m	Santa Clarita	-0.3953	0.2953
+2	1717 kg	0.376	volleyball	iRVINE	0.549	2038	-0.1995	boxing	1918 m	San Diego, Los Angeles, Oakland	0.8063	0.8613
+0	1271 kg	1.3604	soccer	San Jose	0.4751	932	0.1192	baseball	1763 m	Sacramento	1.5959	1.2814
+5	1191 kg	-0.4027	golf	Stockton	1.448	-176	-0.4676	basketball	-177 m	Santa Clarita	-0.7604	0.4442
+4	-414 kg	1.3946	basketball	San Bernardino	0.9268	1918	0.6922	soccer	2577 m	Modesto	0.3625	-0.2194
+4	-326 kg	0.288	basketball	San Francisco, San Bernardino	0.5008	2213	0.2809	soccer	204 m	Anaheim, Santa Ana, Bakersfield, Irvine	1.3056	1.4422
+3	-110 kg	1.7314	baseball	San Jose	0.8716	-146	-0.1924	tennis	1237 m	Riverside	-0.2216	0.9958
+3	673 kg	1.1931	track & field	San Jose	1.4719	135	-0.0744	volleyball	554 m	Riverside	0.1558	0.3925
+3	-758 kg	2.6449	baseball	Santa Clarita	0.2561	872	-0.3231	volleyball	-283 m	San Francisco	0.5103	-0.9121
+1	-551 kg	-0.4716	ice hockey	Modesto		-482	-0.3248	NULL	459 m	San Jose, Anaheim, Santa Ana	1.1328	0.1209
+1	381 kg	1.2412	motor sports	Modesto, Riverside, Fresno	0.6288	421	0.2512	baseball	2040 m	San Jose, Bakersfield, Santa Ana	-0.3494	0.9643
+4	616 kg	0.2778	basketball	San Bernardino, Long Beach	0.9434	799	1.8577	soccer	1792 m	Stockton, Moreno Valley	1.6854	0.6315
+3	456 kg	1.1424	baseball	Santa Clarita	1.357	249	0.0795	tennis	-1556 m	Santa Clarita	-0.3612	0.0752
+1	-179 kg	1.1737	track & field	Santa Ana, Riverside, Modesto, Fresno	0.8375	692	2.1801	track & field	-498 m	Santa Ana, Anaheim	2.8269	-0.3443
+3	-695 kg	0.5447	baseball	San Jose	1.8393	337	0.4211	volleyball	1335 m	San Francisco	-0.2335	0.2885
+5	549 kg	-0.5716	badminton	Stockton	1.2093	506	1.808	basketball	68 m	Long Beach	0.3075	0.6999
+2	-11 kg	0.927	volleyball	Fresno	-0.7612	286	0.1365	badminton	2847 m	Fremont, Oakland, San Bernardino	0.8208	0.3209
+5	2709 kg	0.3119	badminton	Stockton	-0.3134	1285	1.1632	soccer	-209 m	Long Beach	-0.2077	1.0854
+5	1433 kg	1.2717	running	Stockton	1.2775	415	0.2061	basketball	-373 m	Santa Clarita	1.8876	1.1534
+3	-1052 kg	0.9729	baseball	Santa Clarita	0.1625	195	-0.2266	badminton	-735 m	Riverside	0.5213	0.3337
+2	272 kg	1.0505	volleyball	Oakland	0.5835	234	-0.2772	running	2240 m	Fremont, San Bernardino, San Diego, Oakland	1.7752	1.6131
+0	2185 kg	0.9724	tennis	San Diego, Bakersfield, Los Angeles, Anaheim	-0.0885	550	1.5499	baseball	-464 m	Sacramento	0.7843	-0.1019
+3	1491 kg	0.5819	boxing	Santa Clarita	-0.0009	127	2.0578	TENNIS	191 m	San Francisco	1.5369	-0.1016
+4	188 kg	1.2763	ice hockey	San Francisco, San Bernardino	0.4464	1918	1.8694	soccer	1239 m	Modesto, Moreno Valley	1.0691	0.8104
+1	333 kg	0.787	motor sports	Modesto, Santa Ana, Fresno, Moreno Valley	0.6243	1053	0.9537	track & field	1168 m	Anaheim, Irvine, Chula Vista, San Jose	1.1632	1.3236
+2	997 kg	0.8735	volleyball	Chula Vista	0.3508	428	0.3737	boxing	-1619 m	San Diego	1.4178	0.0072
+2	467 kg	-0.6991	volleyball	Oakland	1.6096	1686	-0.6862	football	-578 m	Los Angeles, San Bernardino	1.5102	2.0413
+5	1467 kg	0.6389	badminton	Stockton	2.4569	513	3.0343	basketball	-969 m	Santa Clarita	0.2946	0.121
+4	1301 kg	0.0508	ice hockey	Long Beach	0.9391	1803	0.0616	soccer	-363 m	Modesto	0.728	-1.8417
+4	-717 kg	1.0902	basketball	San Francisco	2.0149	393	0.588	soccer	1510 m	Stockton	-0.0957	-0.8083
+1	-650 kg	0.2252	motor sports	Riverside, Fresno, Moreno Valley, Santa Ana	-0.8852	1236	-1.4771	golf	274 m	San Diego, Fremont	1.0108	0.2827
+5	305 kg	0.9598	boxing	Stockton	1.2578	2244	-0.6047	basketball	117 m	Long Beach	0.665	0.6621
+3	983 kg	0.0054	baseball	San Jose	0.6567	-248	-0.0817	ice hockey	-476 m	San Francisco	1.3609	1.0967
+2	418 kg	0.6264	volleyball	Chula Vista, Oakland	0.0087	542	1.0153	motor sports	1176 m	San Bernardino, San Diego, Oakland, Fremont	0.3067	1.3161
+2	-282 kg	0.6675	volleyball	Irvine, Chula Vista	0.6733	595	0.4444	football	1548 m	San Diego	1.1022	1.128
+2	-691 kg	-0.8238	volleyball	Oakland, Chula Vista	0.3922	2022	-1.0563	running	-902 m	Oakland, Los Angeles, Fremont, San Bernardino	0.9251	-0.2711
+0	1387 kg	0.1189	football	Long Beach, San Francisco	0.0681	1619	-0.3567	baseball	1372 m	Fresno	0.6639	0.455
+3	157 kg	1.8364	baseball	Irvine	1.2451	-1116	2.7349	ice hockey	320 m	Riverside	0.1777	0.4587
+0	1182 kg	0.0224	soccer	Los Angeles, Fremont, Sacramento	0.303	628	0.8124	baseball	873 m	Fresno	1.8181	2.4584
+4	-269 kg	0.7353	basketball	San Bernardino, Long Beach	-0.0028	1609	1.0756	soccer	826 m	Stockton	-0.6029	0.763
+3	?	0.7072	baseball	San Jose	2.1085	299	0.1089	ICE HOCKEY	476 m	n/a	0.527	-0.6837
+4	353 kg	0.6328	ice hockey	Irvine	-0.9944		-0.6009	soccer	1936 m	Moreno Valley, Stockton	0.4875	-0.424
+4	225 kg	0.7468	basketball	Sacramento, Bakersfield, Fremont, San Diego	1.2706	1730	1.3142	basketball	1147 m	Stockton	0.3101	-0.64
+1	1565 kg	0.7778	motor sports	Modesto, Fresno	-0.6381	-602	-1.3512	track & field	-232 m	irvine	0.7993	-0.36
+2	517 kg	0.1939	volleyball	Riverside	0.596	319	0.3947	motor sports	2002 m	San Diego, San Bernardino	1.2601	0.8819
+4	850 kg	-0.4182	ice hockey	Moreno Valley, Modesto, Santa Ana	1.8904	2250	1.0022	soccer	2411 m	Moreno Valley	-0.4347	-0.5014
+2	-310 kg	1.4306	volleyball	cHULA vISTA	0.0396	1125	0.9204	baseball	2010 m	Los Angeles, Oakland, San Diego, San Bernardino	-0.2987	1.7036
+5	2088 kg	0.2567	running	Stockton	0.7544	-242	1.1112	basketball	651 m	Long Beach	0.4169	0.7376
+2	265 kg	-1.258	volleyball	San Francisco, Long Beach	-0.1434	90	2.7488	running	2495 m	San Diego, San Bernardino, Fremont	1.6659	-0.5222
+2	-410 kg	0.4945	volleyball	Oakland, Chula Vista	1.0307	927	0.1939	FOOTBALL	2001 m	Riverside	0.5763	0.8722
+3	-1594 kg	1.7258	baseball	n/a	-0.6706	721	0.1099	ice hockey	1156 m	San Francisco	-0.925	0.1835
+2	374 kg	1.5335	baseball	Oakland, Irvine	-0.8866	39	-0.1395	motor sports	1812 m	San Bernardino, Los Angeles, Fremont	1.1078	0.9389
+0	1649 kg	0.8204	football	Sacramento, Fremont	2.3617	1605	-0.9555	baseball	590 m	Fresno	1.6765	0.4699
+4	273 kg	-0.3915	basketball	Long Beach	0.6364	30	0.6896	Soccer	1919 m	Moreno Valley, Stockton	1.4518	-0.74
+1	-627 kg	-0.2627	motor sports	Modesto, Riverside, Santa Ana	-0.8538	220	0.0039	golf	944 m	Anaheim, Chula Vista, Santa Ana	-0.3966	0.9761
+5	1028 kg	0.1617	badminton	Stockton	0.3594	630	-0.2704	basketball	457 m	Long Beach	2.4758	0.1051
+0	-992 kg	1.2918	tennis	NULL	1.3978	-27	0.8423	running	2044 m	Fresno	0.3984	1.2847
+5	456 kg	0.2497	running	Stockton	1.5812	4	1.1374	soccer	707 m	Santa Clarita	0.0888	1.6421
+2	1886 kg	1.207	None	Irvine, Chula Vista	0.1097	934	0.7171	soccer	675 m	San Bernardino	0.0416	-0.1416
+3	-623 kg	1.4659	baseball	Santa Clarita	-0.6153	303	0.9015	tennis	786 m	Stockton	-0.1523	0.481
+1	141 kg	1.9757	soccer	Oakland, Chula Vista	1.3563	-913	0.0637	track & field	1379 m	Santa Ana	0.0207	-0.0543
+0	1881 kg	0.1225	tennis	Santa Ana, Modesto	0.9159	2477	2.3432	baseball	254 m	Fresno	1.0991	0.8861
+2	-490 kg	-0.0017	volleyball	Irvine	0.8191	606	-1.1173	motor sports	-890 m	Oakland, Fremont, San Diego, San Bernardino	1.9359	0.6576
+1	-271 kg	1.1722	motor sports	Riverside, Santa Ana, Fresno, Moreno Valley	1.4475	222	1.337	track & field	-71 m	San Jose, Bakersfield, Anaheim, Santa Ana, Irvine	1.4429	1.3181
+1	70 kg	0.7273	motor sports	rIVERSIDE	0.5066	-747	0.448	track & field	-1104 m	Bakersfield, Anaheim, San Jose, Irvine, Chula Vista	-0.2018	0.6924
+4	-471 kg	0.9372	basketball	Long Beach	1.9698	695	1.554	soccer	-293 m	Stockton, Modesto	0.6259	0.2629
+2	1382 kg	0.431	volleyball	Irvine, Chula Vista	0.7942	1433	0.4455	track & field	-680 m	San Bernardino, Fremont	-0.0301	0.7358
+2	626 kg	0.1545	volleyball	Chula Vista	0.0247	-272	0.4981	running	751 m	Oakland, Fremont, San Diego	0.1974	0.6299
+4	84 kg	0.0795	basketball	Long Beach	-0.5206	558	1.1375	soccer	734 m	Modesto, Moreno Valley	0.0755	1.1681
+2	-585 kg	0.2751	volleyball	Irvine, Oakland	0.9301	984	0.3832	motor sports	393 m	Fremont, San Diego	1.3871	0.8111
+4	-279 kg	0.6092	None	Long Beach	1.6309	359	0.4187	N/A	1008 m	Modesto, Stockton	0.6701	0.7178
+5	1284 kg	-0.1683	golf	stockton	2.1234	402	0.8266	basketball	526 m	Fresno	0.5016	0.7379
+4	-553 kg	0.0572	basketball	San Bernardino	0.5594	596	1.7011	soccer	-383 m	Stockton, Moreno Valley	-0.114	0.0968
+2	21 kg	1.4875	volleyball	Chula Vista, Irvine	0.1264	624	-0.4759	football	1779 m	San Diego, Los Angeles	1.2224	0.1093
+0	-267 kg	-0.0481	tennis	San Francisco, Long Beach	0.2611	1132	-1.6623	baseball	1351 m	Sacramento	1.2773	0.5597
+3	-2272 kg	0.6258	running	San Jose	1.2508	-154	2.0316	badminton	1064 m	San Francisco	0.4005	-0.3514
+1	62 kg	1.765	None	Modesto, Moreno Valley	0.993	-988	1.3216	track & field	1124 m	Anaheim, Irvine, Chula Vista, San Jose	0.5431	0.4701
+4	872 kg	-0.0434	basketball	San Francisco, Long Beach	0.5791	1268	0.4116	soccer	-906 m	Stockton	0.9986	-0.3475
+4	295 kg	0.3438	ice hockey	Fresno, Riverside, Modesto, Moreno Valley	0.0594	779	-0.3477	soccer	179 m	Stockton, Modesto	1.2504	1.4842
+0	289 kg	-0.3098	soccer	Fremont	0.7103	1521	1.6859	running	-863 m	fRESNO	1.678	-1.1076
+4	334 kg	0.9594	Ice Hockey	San Jose	0.9406	629	2.7739	soccer	-853 m	Stockton, Modesto	0.129	0.0699
+3	652 kg	1.0293	baseball	Santa Clarita	1.1339	-1126	-0.9395	badminton	1113 m	San Francisco	NULL	0.7395
+0	693 kg	0.4811	football	San Diego, Bakersfield, Los Angeles	-0.2187	770	0.5361	baseball	499 m	Sacramento	-0.0895	0.3659
+1	-2027 kg	1.5669	track & field	Modesto, Fresno	0.7192	n/a	0.7811	volleyball	-915 m	Irvine, Chula Vista, San Jose, Santa Ana	0.7974	0.8556
+2	-629 kg	-0.4903	motor sports	Chula Vista, Irvine	0.0461	-163	0.5882	football	1970 m	San Bernardino, Los Angeles, San Diego, Fremont	1.5643	1.2955
+2	-1217 kg	1.4914	tennis	Oakland, Irvine	-0.1313	-337	0.115	basketball	1243 m	Sacramento	2.7495	1.847
+5	865 kg	0.5496	golf	Stockton	0.1187	495	0.8316	basketball	-216 m	Long Beach	1.571	1.4408
+1	-505 kg	0.3967	motor sports	Santa Ana	0.2294	-826	1.3715	track & field	583 m	Irvine	0.7045	0.1449
+0	490 kg	0.4604	tennis	Sacramento, Bakersfield	0.3769	842	2.2265	baseball	1077 m	Fresno	1.4511	0.7139
+3	-801 kg	0.7625	boxing	Santa Clarita	0.4515	714	-0.1732	ice hockey	1431 m	San Francisco	-0.1078	-0.1686
+3	590 kg	NULL	BOXING	San Jose	0.2604	-535	1.154	ice hockey	570 m	Riverside	0.8881	-0.1129
+0	1324 kg	-0.0218	football	Los Angeles, Fremont, Bakersfield, San Diego, Sacramento	1.0173	580	1.0529	baseball	-1173 m	Fresno	0.0693	0.942
+5	1516 kg	-0.1509	running	Stockton	0.469	1942	-0.3632	basketball	521 m	Los Angeles, San Bernardino, Fremont	0.9355	1.4546
+0	-40 kg	-0.0239	football	Irvine	1.6243	174	1.0749	baseball	303 m	Sacramento	0.67	-0.6896
+3	687 kg	-0.3062	baseball	San Jose	1.0526	196	0.7927	volleyball	-175 m	Riverside	0.5412	0.0797
+1	493 kg	0.9452	track & field	Riverside, Modesto, Moreno Valley	-0.4031	1524	1.069	golf	15 m	Santa Ana, Chula Vista	-0.3338	1.332
+0	2002 kg	2.0581	soccer	Anaheim, San Diego, Los Angeles	-0.3324	None	2.1703	baseball	1652 m	Sacramento	0.3595	0.6707
+5	438 kg	-0.0469	GOLF	Stockton	-0.1881	1515	-0.0433	baseball	-62 m	Santa Clarita	-0.9455	0.1785
+0	1338 kg	0.5102	football	Los Angeles, San Diego, Bakersfield, Anaheim	0.7729	1783	0.4802	baseball	2450 m	Sacramento	-0.5789	0.3208
+4	1869 kg	0.4741	basketball	San Francisco	1.1615	704	1.1242	soccer	1091 m	Stockton, Moreno Valley	2.2809	-0.2281
+5	2121 kg	-0.2242	running	Stockton	1.2464	631	-0.2491	basketball	268 m	Long Beach	0.3644	1.7285
+3	1525 kg	1.6585	boxing	Santa Clarita	0.4199	333	3.1771	ice hockey	537 m	Riverside	0.2191	-0.0485
+5	-161 kg	0.7617	badminton	Stockton	0.5144	452	2.7256	basketball	1998 m	Long Beach	0.1648	-0.3337
+0	520 kg	-0.3212	football	Los Angeles, Fremont, San Diego, Anaheim	0.7402	1136	-0.4549	baseball	3076 m	Fresno	2.1382	0.9633
+3	164 kg	0.5584	baseball	San Jose	0.0815	80	1.8492	TENNIS	-2539 m	Riverside	-0.2199	0.2375
+0	1620 kg	0.2955	boxing	Bakersfield, Fremont	2.3313	995	0.9074	badminton	57 m	Fresno	1.2893	1.0982
+2	1308 kg	0.4029	volleyball	Irvine	1.0478	928	1.2916	motor sports	-382 m	San Diego, Los Angeles	0.8924	-0.1239
+1	-1100 kg	1.6505	track & field	Modesto, Fresno	0.8685	531	0.8645	golf	817 m	Irvine, Chula Vista, Bakersfield, San Jose	2.0178	1.4959
+5	948 kg	-0.0092	boxing	Stockton	0.6223	1330	1.9682	basketball	2227 m	Long Beach	1.38	-0.0369
+3	1573 kg	0.7793	baseball	Santa Clarita	-0.0795	1443	n/a	tennis	-80 m	Riverside	0.0918	-0.0638
+0	140 kg	-0.4353	football	Los Angeles, Sacramento, Anaheim, Fremont	1.8498	-313	-0.6295	baseball	420 m	Sacramento	2.001	0.8091
+3	1190 kg	0.3069	boxing	San Jose	-0.6253	-524	1.1949	badminton	-1912 m	San Francisco	0.6204	-1.0379
+1	752 kg	0.0297	track & field	Fresno, Riverside, Moreno Valley, Santa Ana	0.0806	-901	-0.3104	track & field	-372 m	San Jose, Santa Ana, Chula Vista	0.4867	-0.449
+0	-318 kg	0.6396	basketball	Los Angeles	1.0049	752	2.1932	baseball	-404 m	Sacramento	2.1525	0.955
+1	-1070 kg	1.0928	motor sports	Riverside, Santa Ana	-0.9122	1266	0.7998	golf	-228 m	Bakersfield, Chula Vista, Santa Ana	0.3444	2.036
+4	892 kg	-0.164	volleyball	San Francisco, San Bernardino	0.8806	893	0.3187	basketball	2338 m	Stockton, Modesto	-0.72	1.6054
+1	-407 kg	0.8036	motor sports	San Jose	1.1692	-205	-0.4769	golf	656 m	Irvine, Chula Vista, Santa Ana	0.1831	0.6876
+3	-841 kg	1.2898	boxing	Modesto	-0.7293	285	0.6095	tennis	2180 m	Riverside	1.2395	0.66
+4	1926 kg	0.5886	golf	San Bernardino	0.0273	1197	1.7755	soccer	2177 m	Modesto	1.6356	1.2852
+4	1937 kg	0.3157	basketball	San Bernardino, San Francisco	0.8707	226	0.3326	soccer	519 m	Modesto, Stockton	0.5634	1.0563
+2	-1404 kg	1.1117	boxing	Chula Vista, Oakland	1.2048	838	-0.3834	motor sports	1172 m	San Diego, Oakland	0.682	2.0456
+0	2725 kg	-0.4578	soccer	Los Angeles, Bakersfield	1.0458	2001	0.4298	baseball	-372 m	Fresno	0.9834	0.8064
+5	-380 kg	-0.5652	badminton	Stockton	0.6735	282	1.4387	basketball	294 m	Long Beach	0.412	1.6311
+5	1093 kg	-0.3881	badminton	Stockton	0.3896	924	1.6048	basketball	762 m	Long Beach	-0.4656	-0.3118
+4	527 kg	0.503	basketball	Long Beach	0.0637	898	0.2575	soccer	2565 m	Stockton, Modesto	-0.5624	0.3951
+5	984 kg	0.4877	golf	San Francisco	-0.4461	954	0.0471	basketball	-874 m	Long Beach	-0.9152	0.1214
+4	3033 kg	-0.7811	boxing	San Bernardino, Long Beach	0.701	648	0.2618	soccer	2175 m	Modesto, Moreno Valley	0.6984	-0.5833
+4	873 kg	0.2649	basketball	Long Beach	0.8393	1333	0.0682	baseball	198 m	Modesto, Moreno Valley	0.636	-0.97
+0	789 kg	0.132	motor sports	n/a	0.2725	-975	0.448	baseball	-220 m	Fresno	0.807	-0.3837
+0	1556 kg	1.6315	football	CHULA VISTA	0.5874	-260	0.0964	baseball	1704 m	Fresno	3.0788	1.7198
+1	-287 kg	-0.639	motor sports	Riverside, Moreno Valley, Fresno, Santa Ana	-0.3571	-1370	0.1593	track & field	-326 m	Santa Ana, San Jose, Bakersfield	0.1271	0.8082
+1	452 kg	1.5722	motor sports	Fresno, Moreno Valley	1.6107	-173	3.3435	golf	454 m	Santa Ana, Bakersfield, San Jose, Anaheim	-0.2738	0.6778
+0	-428 kg	0.2215	football	Moreno Valley	0.7949	1048	-0.4828	baseball	516 m	Fresno	0.4193	0.0937
+0	1174 kg	-1.3339	tennis	Fremont, San Diego, Anaheim	1.2504	1400	1.7611	baseball	755 m	Fresno	1.1717	1.1538
+1	1876 kg	0.5267	motor sports	Modesto, Moreno Valley, Fresno	0.1507	550	-0.2664	golf	206 m	Chula Vista, San Jose, Irvine, Santa Ana	-0.429	1.0914
+3	-1902 kg	1.8824	boxing	Santa Clarita	0.8927	-610	1.0191	ice hockey	-41 m	San Francisco	1.6652	0.0426
+4	745 kg	1.2507	basketball	Los Angeles, Fremont	1.6335	328	-0.1739	soccer	319 m	Modesto, Moreno Valley	2.7149	0.1027
+3	-775 kg	0.3544	baseball	Santa Clarita	1.1628	400	1.4137	tennis	-1469 m	San Francisco	0.8664	0.3939
+0	78 kg	0.3738	soccer	San Diego, Los Angeles, Bakersfield, Sacramento, Anaheim	1.0416	979	-0.3595	baseball	2310 m	Oakland, San Diego	-0.1826	0.063
+4	725 kg	-0.8128	ice hockey	Long Beach, San Bernardino	0.8306	1386	0.6247	soccer	182 m	Modesto	0.1855	-0.0979
+3	70 kg	0.5867	baseball	San Jose	0.4632	962	0.5113	badminton	267 m	Riverside	1.411	-0.8151
+0	1334 kg	0.8574	soccer	Los Angeles, San Diego, Fremont, Bakersfield, Anaheim	0.4136	224	1.0334	baseball	-218 m	Fresno	0.8013	-0.8143
+0	1099 kg	-0.7014	soccer	Anaheim, Bakersfield	0.2928	378	2.4166	baseball	2069 m	None	0.7706	1.0963
+1	139 kg	0.0322	motor sports	Riverside, Santa Ana, Fresno, Modesto	0.1863	993	0.3199	track & field	676 m	Chula Vista, San Jose	1.4366	0.0203
+5	1955 kg	0.1298	Badminton	stockton	-0.1413	1630	-1.1553	basketball	-994 m	Santa Clarita	2.1645	1.5533
+5	282 kg	0.8935	badminton	Stockton	0.0183	896	-0.0822	basketball	189 m	Long Beach	0.9278	1.129
+4	2997 kg	-0.0123	boxing	Long Beach	-0.4416	-765	0.0009	soccer	-132 m	Moreno Valley, Modesto	1.5219	0.6477
+0	533 kg	0.4529	tennis	Los Angeles, Anaheim, Fremont	-0.0057	643	0.7079	baseball	724 m	Fresno	2.3063	-0.307
+2	423 kg	-0.5137	volleyball	Oakland, Irvine	3.0348	-417	1.0535	boxing	2526 m	Fremont	1.8062	1.1561
+1	-363 kg	0.0401	track & field	Moreno Valley	0.0917	-823	0.7399	golf	2038 m	Bakersfield, San Jose, Chula Vista, Anaheim, Irvine	-0.3437	-0.2651
+4	975 kg	0.6526	basketball	San Bernardino	-0.3195	1999	0.8078	soccer	123 m	Stockton, Modesto	1.9233	2.0605
+5	559 kg	0.7545	golf	Stockton	-0.9086	1267	-0.7889	basketball	922 m	Santa Clarita	0.6725	1.4774
+2	112 kg	0.2258	volleyball	San Francisco, Long Beach	-0.1511	1385	0.2853	running	1535 m	San Bernardino, San Diego, Oakland	-0.39	-0.0711
+1	1710 kg	2.396	motor sports	moreno valley, riverside, modesto	-0.0743	51	0.6477	golf	1121 m	Long Beach	-0.1949	1.4139
+3	-203 kg	1.3814	baseball	Santa Clarita		-188	2.1549	ICE HOCKEY	-362 m	San Francisco	1.1958	0.4134
+5	1325 kg	0.5204	ice hockey	Stockton	-1.1959	1570	-0.1751	basketball	993 m	Santa Clarita	-0.4961	0.3473
+2	517 kg	0.1629	volleyball	Chula Vista	0.9764	1394	-0.5052	running	-709 m	Long Beach	0.3283	0.9619
+1	-422 kg	1.9113	running	Modesto, Riverside	1.2223	1231	0.7587	golf	704 m	Bakersfield, Irvine, Anaheim, Chula Vista	2.1687	0.9769
+2	78 kg	0.397	volleyball	Chula Vista	1.1614	1696	0.0886	running	653 m	Santa Clarita	1.2734	-0.2869
+0	913 kg	0.4107	badminton	Fremont, Bakersfield	1.24	-70	1.6457	baseball	-375 m	Sacramento	0.6792	-1.5991
+2	-306 kg	1.2415	volleyball	Oakland	1.5169	1315	1.9957	running	3004 m	San Bernardino	-0.0201	0.9178
+3	-963 kg	0.9915	boxing	San Jose	-1.316	-216	1.4985	ice hockey	1152 m	San Francisco	1.0411	0.0071
+1	525 kg	1.3911	track & field	Modesto, Fresno, Santa Ana, Riverside	0.9349	85	1.4739	track & field	795 m	San Jose, Anaheim, Bakersfield, Irvine	0.2984	1.6578
+1	1639 kg	0.8995	volleyball	Modesto, Riverside	-0.2735	214	-0.0962	track & field	1060 m	Santa Ana, Chula Vista, San Jose	0.8452	0.681
+1	-1522 kg	1.6726	volleyball	Santa Ana, Moreno Valley, Riverside, Modesto	0.8915	-428	-0.8867	golf	-1720 m	Irvine, Anaheim, Chula Vista, Santa Ana, Bakersfield	0.0021	0.7783
+2	1585 kg	-0.5378	volleyball	Chula Vista	0.133	1668	-0.6808	boxing	1899 m	San Bernardino	1.1925	-1.1949
+0	-1344 kg	0.6284	soccer	San Diego, Sacramento	1.1259	250	0.3259	baseball	3002 m	Fresno	0.5472	-0.7272
+2	-368 kg	0.8437	volleyball	Irvine, Chula Vista	0.312	-180	0.6654	football	543 m	Los Angeles, San Diego	0.6187	0.8254
+2	-140 kg	-0.3124	volleyball	Chula Vista	2.2575	1485	0.3898	motor sports	49 m	San Bernardino, San Diego, Fremont, Oakland	1.2509	-0.3788
+3	-402 kg	1.1148	boxing	San Jose	1.0405	476	-0.2805	volleyball	987 m	San Francisco	1.0576	-0.6753
+1	1236 kg	-0.3973	motor sports	Riverside, Fresno	0.9315	1385	1.7455	track & field	-65 m	Anaheim, Chula Vista, Santa Ana, Irvine, Bakersfield	0.8326	-0.5231
+5	1624 kg	0.7753	badminton	Stockton	1.1998	1528	-0.5846	BASKETBALL	1274 m	Long Beach	-0.1076	0.0258
+5	1785 kg	0.3063	golf	Stockton	0.1979	69	0.3695	tennis	323 m	Long Beach	-0.3705	1.3164
+4	2021 kg	0.2821	None	San Francisco, San Bernardino	1.484	1154	2.442	soccer	2239 m	Moreno Valley, Stockton	0.2802	0.4597
+1	2452 kg	0.053	motor sports	Fresno, Moreno Valley, Santa Ana, Riverside	-1.3352	1074	1.0717	track & field	621 m	Chula Vista, Anaheim, Bakersfield, San Jose	0.7135	1.6588
+2	875 kg	1.248	volleyball	Chula Vista, Oakland	0.167	14	0.1679	running	-161 m	Oakland, San Bernardino	0.6149	0.7382
+1	534 kg	-0.5413	motor sports	Modesto, Moreno Valley, Fresno, Riverside	-0.2264	322	1.5254	golf	-1566 m	Irvine	2.3987	1.3491
+5	-478 kg	-0.1277	basketball	Santa Ana	0.8634	281	0.7611	basketball	1582 m	Long Beach	0.8956	0.7917
+2	579 kg	0.2884	basketball	Stockton	-0.2899	1522	-0.4537	motor sports	896 m	Fremont, San Bernardino, San Diego, Los Angeles	?	0.9834
+5	1306 kg	0.5292	badminton	Moreno Valley, Riverside	0.6869	1245	-0.0652	basketball	-340 m	Long Beach	-0.5657	1.353
+5	647 kg	0.0944	boxing	Stockton	0.2646	1951	-1.1056	basketball	1653 m	Riverside	0.3087	2.3388
+4	292 kg	0.2349	ice hockey	San Bernardino	1.167	3532	2.0296	soccer	718 m	Modesto	0.7509	-0.1748
+4	2083 kg	0.6458	ice hockey	San Bernardino	1.7137	1066	0.6365	soccer	-247 m	Modesto	0.5663	0.0902
+5	-1264 kg	0.5633	badminton	Stockton	-0.2391	1989	0.9554	basketball	-763 m	Santa Clarita	-0.1282	-0.7094
+5	1360 kg	-0.6236	golf	Stockton	1.6577	1770	-0.6104	baseball	1677 m	lONG bEACH	1.3644	0.3213
+1	1514 kg	-0.0144	motor sports	Riverside, Santa Ana, Fresno	-0.2794	330	1.7948	track & field	2340 m	Chula Vista, Anaheim	0.1432	0.319
+4	777 kg	0.1487	ice hockey	San Francisco, Long Beach	0.2902	1324	0.6897	soccer	1563 m	Moreno Valley, Modesto	0.2447	0.4183
+4	211 kg	0.4806	basketball	San Bernardino	0.7008	161	0.3755	soccer	277 m	Stockton, Moreno Valley	1.8492	-0.2426
+3	-1137 kg	0.7677	baseball	Santa Clarita	1.7113	336	1.1599	tennis	-463 m	Riverside	1.3612	0.0745
+5	1046 kg	0.4794	NULL	Stockton	0.3986	2038	-0.0061	basketball	187 m	Long Beach	0.1814	1.0714
+1	383 kg	0.1154	motor sports	Riverside, Santa Ana	1.3454	707	1.839	basketball	1069 m	Irvine	0.6783	1.1113
+4	1225 kg	0.6782	basketball	San Francisco, Long Beach	0.1217	25	0.0642	golf	1139 m	Moreno Valley, Modesto	0.7187	-0.5757
+4	626 kg	0.0373	volleyball	San Francisco, San Bernardino	0.1534	667	0.7411	soccer	89 m	Stockton	-0.0724	0.9226
+3	-1066 kg	0.7193	boxing	Santa Clarita	0.7396	987	0.5703	badminton	-611 m	San Francisco	1.1269	1.6142
+0	1314 kg	0.5649	football	Bakersfield, Fremont	0.8374	205	0.4772	baseball	2018 m	Fresno	-0.2467	0.8116
+5	1982 kg	0.1682	running	Santa Ana	0.9474	938	-1.063	basketball	332 m	Santa Clarita	-1.1383	-0.1523
+5	963 kg	-0.5364	badminton	Stockton	-0.0525	-921	-0.7795	basketball	645 m	Santa Clarita	-0.1048	0.6562
+3	-1991 kg	1.7098	boxing	San Jose	0.5458	306	0.1415	ice hockey	946 m	Riverside	2.3906	0.1312
+2	-132 kg	0.5925	volleyball	Irvine, Oakland	0.8798	2655	1.1751	tennis	-90 m	Oakland, Los Angeles, San Diego, San Bernardino	1.7776	0.2545
+4	-586 kg	1.4684	basketball	Long Beach, San Bernardino	0.135	935	3.8989	soccer	-28 m	Stockton, Moreno Valley	0.0594	1.1074
+3	332 kg	-0.927	boxing	Santa Clarita	-0.1069	-689	0.6469	badminton	416 m	NULL	1.3456	-0.0769
+3	1222 kg	1.7075	baseball	Santa Ana, Fresno, Riverside	1.3676	193	-0.0247	volleyball	-110 m	Riverside	0.9936	-0.1545
+1	498 kg	0.7964	track & field	MORENO VALLEY	0.0038	158	-0.3559	soccer	1619 m	San Jose, Bakersfield, Santa Ana, Chula Vista	1.3975	1.0628
+2	-28 kg	1.1687	volleyball	Chula Vista, Oakland	-0.207	1646	-0.24	motor sports	667 m	Oakland, Los Angeles, San Bernardino	2.2222	1.781
+1	1443 kg	-0.8322	motor sports	Fresno, Riverside	-0.3361	1349	0.7654	golf	218 m	Santa Ana, Bakersfield, Irvine	-0.33	1.1511
+5	633 kg	?	motor sports	Stockton	0.9843	1263	-0.4416	basketball	598 m	Santa Clarita	0.2743	1.4246
+2	1090 kg	0.6533	volleyball	Chula Vista, Oakland	1.4561	2063	0.8499	motor sports	954 m	Fremont, Oakland, San Diego	1.4131	1.1933
+3	-458 kg	0.6227	boxing	Santa Clarita	0.9818	548	1.7237	tennis	-301 m	San Francisco	0.2273	0.845
+4	842 kg	0.9958	basketball	Long Beach, San Bernardino	0.8771	584	-0.8061	soccer	2153 m	Modesto, Stockton	1.4062	0.1698
+5	-1356 kg	1.2715	badminton	Stockton	0.9372	287	-0.1045	basketball	809 m	Long Beach	0.0671	0.2037
+1	2233 kg	0.4365	ice hockey	Santa Ana, Riverside, Modesto, Fresno	0.5186	-1106	1.0173	track & field	2955 m	Chula Vista, Santa Ana, Bakersfield, Anaheim, San Jose	1.0434	1.5007
+1	186 kg	1.084	track & field	Moreno Valley	0.1029	653	1.6695	GOLF	291 m	Anaheim, Chula Vista, San Jose	1.1725	0.2086
+3	-2232 kg	0.1473	baseball	San Jose	0.3058	552	0.69	volleyball	-509 m	San Francisco	-0.0167	0.9549
+1	1123 kg	-0.2243	track & field	Fresno, Moreno Valley, Riverside	0.432	-1356	0.233	track & field	-877 m	San Jose, Irvine	1.031	0.4133
+5	1143 kg	-0.2669	badminton	Stockton	-1.2548	1250	0.585	basketball	-525 m	Santa Clarita	1.7881	1.2496
+4	324 kg	-0.4131	basketball	Long Beach, San Francisco	0.0675	493	0.9555	SOCCER	909 m	Stockton	2.8426	0.1879
+4	1416 kg	0.4244	basketball	Long Beach, San Bernardino	0.0961	231	0.9175	soccer	-2170 m	Modesto	0.536	-0.3865
+4	529 kg	0.1416	ice hockey	San Jose	2.4822	1264	-0.2755	soccer	1056 m	Bakersfield	2.5257	-1.0973
+3	-197 kg	0.6859	boxing	San Jose	0.2821	302	1.2254	volleyball	-1000 m	Riverside	2.1916	0.6607
+0	1405 kg	0.9391	soccer	San Diego, Fremont, Anaheim, Sacramento, Bakersfield	1.0049	820	0.4943	baseball	1369 m	Fresno	0.5334	-0.8209
+2	-1826 kg	0.8353	volleyball	Santa Clarita	0.8402	1100	-0.4249	running	1472 m	Fremont, Los Angeles, San Bernardino	1.1772	-1.0004
+1	1768 kg	-0.3469	motor sports	Riverside, Moreno Valley	1.895	213	1.5557	golf	-274 m	San Jose, Santa Ana, Bakersfield, Anaheim, Chula Vista	1.2441	-0.4373
+5	1291 kg	0.2871	golf	Chula Vista, Oakland	-0.5001	-290	-0.4297	basketball	-1412 m	Santa Clarita	0.3275	0.7751
+1	-586 kg	0.5532	track & field	Modesto	0.0325	1482	0.8362	track & field	123 m	Bakersfield, Chula Vista, San Jose	0.5816	0.1517
+5	1323 kg	0.55	boxing	Stockton	0.3808	385	-0.3885	basketball	-425 m	Santa Clarita	-0.2552	0.4038
+5	2383 kg	-0.3047	running	Stockton	0.7887	574	-0.1577	track & field	21 m	San Bernardino, Fremont, Oakland, Los Angeles	-0.3729	2.0381
+3	87 kg	0.8262	boxing	San Jose	1.5016	-2227	1.6546	badminton	-344 m	San Francisco	1.1308	0.3616
+1	-798 kg	1.413	track & field	Riverside	1.5762	-272	1.484	track & field	-1628 m	San Jose, Santa Ana	0.5853	0.85
+1	226 kg	0.4945	motor sports	Santa Ana, Riverside, Modesto	1.4381	663	-0.3212	track & field	130 m	Anaheim, Chula Vista	-0.8337	0.7763
+4	933 kg	1.6794	ice hockey	San Bernardino	-0.3131	1182	-1.3686	soccer	942 m	Modesto	-0.1994	-0.6792
+0	1019 kg	0.726	tennis	San Francisco, San Bernardino	-0.3334	1203	0.9	baseball	1097 m	Moreno Valley, Stockton	1.4721	0.6093
+2	1269 kg	0.6711	volleyball	Chula Vista, Irvine	0.7176	503	1.826	football	143 m	San Bernardino, Fremont, Oakland, Los Angeles	0.0829	-0.2226
+0	537 kg	0.8257	football	Anaheim, Sacramento, Bakersfield, Los Angeles	0.3015	1734	2.1344	baseball	303 m	FRESNO	1.3349	-0.3536
+2	406 kg	-0.2815	volleyball	Oakland	0.1204	1094	1.0313	boxing	1381 m	Irvine, Santa Ana, San Jose, Chula Vista	0.8583	0.701
+1	-1237 kg	0.5036	track & field	Moreno Valley, Santa Ana, Modesto, Fresno	-1.0767	426	2.1802	golf	1186 m	Santa Ana, Irvine, San Jose	-0.2103	1.9602
+1	-903 kg	0.0231	volleyball	Riverside	-0.8993	788	1.074	track & field	n/a	Bakersfield, Chula Vista	0.5538	1.9181
+2	525 kg	1.1569	volleyball	Irvine, Chula Vista	0.3837	1161	1.2691	running	1323 m	Fremont, San Diego	1.7034	0.1577
+0	-70 kg	0.1242	football	Fremont, Bakersfield	1.6851	-297	1.0848	baseball	2934 m	Sacramento	-0.1293	1.4052
+4	-186 kg	0.2039	basketball	San Francisco	1.5793	2504	1.647	soccer	1206 m	Long Beach	0.3987	0.2638
+3	445 kg	0.1231	baseball	Santa Clarita	1.379	-1134	-0.7763	tennis	638 m	Stockton, Moreno Valley	1.2512	-0.0346
+3	494 kg	0.5035	baseball	Santa Clarita	0.4158	-28	1.1267	tennis	499 m	San Francisco	-0.1226	0.5801
+3	723 kg	1.1576	baseball	San Diego, Sacramento, Los Angeles, Fremont, Anaheim	0.2688	-269	1.6777	volleyball	303 m	San Francisco	0.6467	0.6763
+4	-1084 kg	0.798	ice hockey	San Francisco, Long Beach	-0.5224	1857	0.5181	soccer	1629 m	Fresno	0.8273	-0.4612
+2	1088 kg	0.8829	volleyball	Irvine, Chula Vista	0.7971	1337	-0.0675	running	-1000 m	Moreno Valley	1.347	0.4068
+5	951 kg	0.6381	badminton	Stockton	0.6082	-600	1.2214	basketball	-132 m	Long Beach	-0.0369	0.0893
+5	110 kg	0.6905	running	Stockton	1.1282	208	-0.3007	basketball	573 m	Santa Clarita	1.0214	1.7372
+3	-976 kg	1.1462	baseball	San Jose	1.1056	812	-0.0526	volleyball	2540 m	Riverside	1.0126	0.13
+4	1290 kg	1.8675	basketball	San Bernardino, Long Beach	0.967	1172	0.6474	soccer	818 m	Modesto	0.8472	0.2018
+1	-735 kg	0.4382	track & field	Fresno, Santa Ana	0.9731	-131	-1.6459	golf	3475 m	Anaheim, Irvine, Chula Vista, San Jose, Bakersfield	0.4472	1.6152
+5	817 kg	-0.4852	running	Bakersfield, San Diego, Los Angeles, Fremont	1.2813	852	1.3943	basketball	1607 m	Santa Clarita	-0.8981	0.6599
+4	-2173 kg	-0.8524	basketball	Long Beach, San Francisco	0.2476	1687	0.2602	SOCCER	1102 m	Modesto	1.4102	-0.5829
+4	451 kg	0.116	ice hockey	San Bernardino	0.3845	146	-0.3909	soccer	1654 m	Moreno Valley	1.0208	0.5452
+5	819 kg	-0.3361	golf	Stockton	0.5353	2229	-0.8255	basketball	-404 m	Santa Clarita	1.6151	1.5979
+5	772 kg	-1.0667	badminton	Stockton	0.2206	1810	1.7087	basketball	-2295 m	Long Beach	NULL	1.4353
+0	710 kg	0.4266	soccer	Stockton	0.3995	-133	0.3915	baseball	189 m	Sacramento	1.1059	0.8681
+5	482 kg	-0.1231	badminton	Stockton	-0.051	547	0.2729	basketball	1610 m	Long Beach	1.2436	-0.1385
+3	-262 kg	0.1337	boxing	Irvine, Oakland	1.0689	-459	0.5023	volleyball	-450 m	Riverside	1.0706	0.8743
+1	?	0.8022	motor sports	Moreno Valley, Modesto, Fresno, Santa Ana	0.0331	837	0.1089	track & field	967 m	Bakersfield, Anaheim	0.3588	0.8333
+3	-1627 kg	1.0837	boxing	Santa Clarita	0.0788	894	0.2814	volleyball	799 m	Riverside	1.0792	-0.8111
+4	-906 kg	-0.6971	ice hockey	San Francisco	0.5761	-56	-0.651	soccer	716 m	Modesto	1.9796	0.1844
+1	882 kg	1.8574	track & field	Santa Ana, Fresno, Modesto, Riverside	-0.2552	550	0.5869	golf	-697 m	Santa Ana, Chula Vista, San Jose, Irvine	0.2861	-0.1556
+4	1272 kg	0.263	ice hockey	San Bernardino, San Francisco	2.5906	673	1.9501	soccer	873 m	Moreno Valley, Stockton	0.6679	1.647
+3	-135 kg	0.9774	ice hockey	Santa Clarita	1.5748	295	-1.2468	tennis	914 m	San Francisco	-0.2813	-0.9437
+0	551 kg	0.0834	football	Sacramento	0.6833	562	0.5018	baseball	-622 m	Sacramento	-0.0366	-0.0036
+4	1217 kg	-0.5414	ice hockey	San Bernardino, San Francisco	0.7954	-102	-1.0227	soccer	1140 m	Moreno Valley	1.0857	0.185
+1	-409 kg	0.335	track & field	Santa Ana, Riverside, Fresno, Moreno Valley	-0.0883	-263	0.8355	golf	1442 m	n/a	-0.2848	
+3	-990 kg	0.3431	boxing	San Jose	0.3736	619	0.6834	volleyball	-39 m	San Francisco	0.6292	0.8408
+0	1621 kg	-0.4736	football	San Diego, Bakersfield, Fremont, Anaheim, Los Angeles	-0.7573	1381	0.1529	baseball	1435 m	FRESNO	-0.3215	0.6592
+3	-198 kg	1.7807	baseball	Santa Clarita	0.6149	183	0.6871	soccer	-1297 m	San Francisco	1.7453	0.5723
+0	-314 kg	0.1062	baseball	Bakersfield, Anaheim, Fremont, San Diego, Los Angeles	1.7037	523	0.1333	football	83 m	Sacramento	1.2803	0.7331
+1	115 kg	1.0545	motor sports	Moreno Valley, Santa Ana	-0.0799	90	-1.7088	track & field	483 m	Anaheim, Chula Vista, Santa Ana, San Jose, Bakersfield	0.5936	0.4857
+0	203 kg	-0.363	soccer	Anaheim, Bakersfield, Fremont, Los Angeles	-0.7968	775	0.8115	baseball	-306 m	Fresno	0.6458	0.608
+3	10 kg	1.2213	boxing	San Jose	-0.2545	-997	1.7822	tennis	-94 m	San Francisco	0.8242	0.0286
+0	96 kg	1.1805	tennis	Chula Vista	0.3531	1212	0.3755	baseball	-422 m	Sacramento	0.9754	0.5089
+2	-720 kg	1.1723	volleyball	Oakland	-0.1486	976	0.6425	motor sports	-1677 m	San Bernardino, Oakland, Fremont	1.786	-0.6156
+2	-278 kg	1.0709	volleyball	Chula Vista, Irvine	1.5399	-953	0.3846	football	1079 m	San Diego	1.3377	1.2936
+2	523 kg	0.0622	volleyball	Irvine	0.856	2291	1.2817	football	464 m	Fremont, San Diego, Oakland	0.0718	1.1675
+0	1242 kg	0.2415	soccer	Anaheim, Bakersfield, Fremont	1.5233	1369	0.6329	baseball	890 m	Fresno	1.4833	-0.5707
+1	373 kg	0.2321	boxing	Santa Ana, Moreno Valley, Riverside	0.8299	182	2.2635	golf	211 m	BAKERSFIELD, CHULA VISTA, IRVINE, ANAHEIM	0.2119	0.2113
+4	573 kg	0.368	ice hockey	San Bernardino, San Francisco	2.1014	248	1.2824	soccer	-606 m	Moreno Valley, Modesto	-0.0853	1.4675
+0	-18 kg	0.7098	badminton	Stockton	2.073	847	1.6882	soccer	1184 m	Irvine, Chula Vista, San Jose	1.2148	-0.738
+2	1425 kg	-0.4477	volleyball	Oakland, Irvine	-0.4017	1775	1.2193	motor sports	178 m	Los Angeles, San Diego, Oakland, San Bernardino	-0.0706	1.1488
+1	1030 kg	0.8258	TRACK & FIELD	Fresno, Santa Ana, Moreno Valley, Modesto	1.6055	886	n/a	track & field	-254 m	Riverside	1.4351	1.5518
+2	544 kg	0.2578	volleyball	Stockton	1.6075	1636	0.3412	running	-414 m	San Diego, Oakland, Fremont	0.3135	0.6433
+2	2381 kg	0.6499	volleyball	Chula Vista	-0.823	1302	1.0935	running	2564 m	San Diego, Los Angeles	1.2373	0.2346
+5	724 kg	0.7078	badminton	Stockton	1.2622	1891	0.2627	BASKETBALL	-109 m	Santa Clarita	-0.3802	0.3227
+4	857 kg	1.2363	basketball	Long Beach, San Bernardino	0.1086	566	0.5425	soccer	1224 m	Stockton, Moreno Valley	1.0916	0.5451
+3	-137 kg	-0.4794	boxing	San Jose	1.1651	-73	0.076	badminton	1433 m	San Francisco	2.505	-0.1427
+3	893 kg	1.769	boxing	San Jose	0.167	238	-0.6984	badminton	-1138 m	Riverside	0.8062	1.3121
+5	-241 kg	0.7136	badminton	San Francisco, San Bernardino	0.0865	1743	0.4895	basketball	-582 m	Santa Clarita	0.9524	0.6696
+2	825 kg	-0.4547	volleyball	Irvine	0.7247	967	-0.5397	football	1769 m	San Bernardino, San Diego	0.9227	0.8913
+1	1926 kg	0.5434	motor sports	Fresno, Santa Ana, Riverside	0.8629	-240	1.5948	volleyball	2164 m	San Jose, Irvine	0.0296	2.2126
+3	-729 kg	1.0858	badminton	Santa Clarita	0.5596	-22	0.4873	ice hockey	3225 m	Riverside	1.1217	1.0053
+1	1860 kg	1.3869	motor sports	Fresno, Moreno Valley, Modesto	0.4038	1779	0.7784	golf	64 m	Santa Ana, Anaheim, San Jose	1.1707	-0.3552
+0	860 kg	0.4709	football	Fremont, San Diego	-0.4582	-160	-0.4662	baseball	1805 m	Sacramento	0.4821	-0.4603
+0	-722 kg	-0.6701	football	Irvine, Chula Vista	-1.0565	273	1.5367	baseball	1140 m	Sacramento	0.8891	0.544
+0	719 kg	-0.1846	tennis	San Diego, Fremont, Sacramento, Los Angeles	-0.6255	-1073	1.4233	soccer	1780 m	Sacramento	0.6916	1.4484
+3	-267 kg	-0.174	track & field	San Jose	0.0472	883	0.3545	volleyball	518 m	San Francisco	0.9546	-0.7416
+1	333 kg	0.5489	motor sports	Modesto, Santa Ana, Riverside	0.835	-899	1.3512	track & field	219 m	Anaheim, Bakersfield, Santa Ana, Chula Vista	2.3268	1.7599
+2	596 kg	0.368	VOLLEYBALL	Irvine	-0.4731	-107	0.9347	football	1123 m	Oakland, Los Angeles, San Bernardino, San Diego	0.7597	0.1592
+4	-735 kg	1.0065	ICE HOCKEY	Long Beach, San Francisco	1.0864	978	-0.5196	soccer	-381 m	Moreno Valley, Stockton	0.6059	1.1197
+3	-415 kg	2.3232	baseball	Santa Clarita	0.4096	-733	0.5208	badminton	321 m	Riverside	0.6189	0.2658
+1	798 kg	1.4171	motor sports	Modesto	0.9248	520	0.6133	golf	59 m	Anaheim, Santa Ana, Chula Vista, Irvine, Bakersfield	0.1255	0.3546
+1	238 kg	0.5281	motor sports	Santa Ana	-0.5663	100	1.8925	golf	621 m	cHULA vISTA, bAKERSFIELD, aNAHEIM	-0.1673	1.6583
+5	859 kg	0.7925	running	Stockton	0.4416	371	0.9435	n/a	382 m	Long Beach	0.3012	1.3995
+2	541 kg	0.2265	volleyball	Chula Vista	0.131	-75	0.2462	football	654 m	Riverside	0.3804	0.4846
+0	1252 kg	-0.2681	soccer	Sacramento, Fremont, Bakersfield, San Diego	1.0592	131	1.4485	Baseball	1844 m	fRESNO	1.1265	-0.8269
+1	77 kg	-0.3104	motor sports	Santa Ana, Modesto, Moreno Valley, Riverside	-0.6447	-559	0.181	track & field	-417 m	Bakersfield	1.5973	1.2435
+3	661 kg	0.4199	baseball	San Jose	-0.5133	352	0.215	badminton	437 m	Riverside	0.5036	-1.2145
+4	-766 kg	1.6801	ice hockey	San Francisco	-0.3025	1067	-0.1352	soccer	2716 m	Modesto	-0.4856	1.1657
+2	376 kg	0.2645	volleyball	Fresno	1.0999	n/a	1.4544	running	142 m	San Bernardino	N/A	-0.1925
+3	-692 kg	1.9896	boxing	San Jose	-0.1749	280	0.9903	badminton	3219 m	Riverside	0.7482	1.4295
+5	112 kg	0.8108	badminton	Stockton	1.4362	694	1.1025	basketball	344 m	Santa Clarita	1.6307	1.6013
+2	85 kg	0.5093	volleyball	Chula Vista	-0.7385	817	1.8289	running	256 m	Modesto	1.9748	0.7409
+0	1863 kg	1.1325	tennis	Fremont	0.0249	713	0.7375	baseball	-119 m	Sacramento	1.3879	0.6244
+0	813 kg	0.1451	volleyball	San Diego	1.0514	775	0.2175	BASEBALL	1237 m	Sacramento	0.8873	1.5921
+0	600 kg	0.59	soccer	Sacramento	0.5885	899	2.0173	baseball	1777 m	Fresno	0.826	-0.268
+5	1051 kg	0.4133	golf	Stockton	-0.6025	365	0.1443	BASKETBALL	39 m	Santa Clarita	-0.6591	-0.0913
+3	1058 kg	0.5503	n/a	Santa Clarita	0.2348	1173	0.3595	volleyball	991 m	Riverside	1.239	0.6393
+3	-1319 kg	1.2926	baseball	San Jose	0.3615	-1693	-1.0243	badminton	16 m	San Francisco	1.0737	0.3916
+5	-97 kg	1.0609	badminton	Stockton	1.1059	1057	-0.5195	basketball	-1314 m	Long Beach	1.1857	0.6016
+4	546 kg	-0.7354	basketball	Long Beach	1.1623	1997	-0.7007	soccer	333 m	Stockton	-0.3575	0.0382
+3	-310 kg	-0.902	baseball	Santa Clarita	0.3429	865	-0.6133	volleyball	1671 m	San Francisco	1.6982	2.0004
+0	2376 kg	-1.0289	tennis	Bakersfield, San Diego, Fremont, Sacramento, Anaheim	0.5664	954	-0.4107	baseball	559 m	Sacramento	0.962	1.0935
+1	956 kg	-0.9496	track & field	Modesto, Santa Ana	0.3608	1455	0.8399	track & field	664 m	Anaheim, San Jose, Bakersfield	1.0729	-0.1078
+1	1221 kg	-0.9778	track & field	San Francisco	1.3549	-427	0.3474	golf	-402 m	San Jose, Bakersfield, Chula Vista, Anaheim, Irvine	0.8478	1.0618
+2	334 kg	0.5014	volleyball	Irvine	-0.3386	817	0.7026	boxing	483 m	None	1.9357	0.4223
+4	1325 kg	-0.2739	basketball	Anaheim, Bakersfield	0.0311	2008	-1.0688	soccer	2835 m	modesto	0.3003	-0.6488
+2	236 kg	0.5607	volleyball	San Bernardino, Long Beach	-0.3883	903	2.0805	running	-455 m	OAKLAND	1.0872	-0.1736
+5	1126 kg	0.8995	track & field	Stockton	N/A	-96	-0.1079	basketball	1675 m	Santa Clarita	1.3141	-0.1901
+3	88 kg	-0.1484	boxing	Santa Clarita	0.9182	972	-0.1139	badminton	-224 m	San Francisco	0.8222	1.7329
+3	480 kg	0.8378	baseball	San Jose	1.7376	-281	0.6002	tennis	-114 m	San Francisco	1.727	1.0228
+4	1378 kg	0.7998	basketball	Moreno Valley, Modesto, Santa Ana, Fresno	0.4421	925	1.5365	soccer	784 m	Riverside	0.4763	-0.1186
+4	2878 kg	0.5816	basketball	Sacramento, San Diego, Fremont, Anaheim	-0.1609	546	1.1774	soccer	123 m	Moreno Valley	0.1152	0.4033
+5	891 kg	0.7429	badminton	Stockton	0.7673	1421	0.2506	basketball	-855 m	Long Beach	1.5696	0.5577
+2	-652 kg	-0.2693	volleyball	Chula Vista, Oakland	1.1476	506	None	basketball	400 m	San Diego, Los Angeles, Fremont	0.7861	0.4857
+1	1380 kg	0.3624	motor sports	Moreno Valley	-0.0106	-809	0.4957	Golf	1667 m	Santa Ana	0.3769	0.0822
+2	-1152 kg	1.6341	volleyball	Chula Vista	0.8166	642	0.5363	motor sports	2173 m	LOS ANGELES, SAN DIEGO	2.6883	1.3439
+4	112 kg	-0.2351	basketball	San Francisco, San Bernardino	-0.168	1131	-0.2477	soccer	-363 m	Stockton	1.3161	-0.8076
+0	-209 kg	1.9254	basketball	San Jose	0.1925	759	0.5767	baseball	1027 m	Fresno	0.0121	1.5267
+1	None	0.1049	track & field	Riverside, Modesto	0.8224	377	2.5234	track & field	-423 m	Bakersfield, Santa Ana, Anaheim, Chula Vista, Irvine	1.1764	0.953
+0	1115 kg	-0.9432	soccer	bakersfield, anaheim, fremont	1.9189	456	0.1627	track & field	1563 m	San Francisco	-0.4277	0.7333
+3	1545 kg	1.4113	boxing	Santa Clarita	0.2864	-690	1.2244	ice hockey	-923 m	San Francisco	2.8918	0.8043
+3	1036 kg	0.7619	baseball	San Francisco, Long Beach	0.1023	25	0.856	ice hockey	84 m	San Francisco	1.2211	0.0833
+0	1990 kg	-0.7154	tennis	Fremont, Bakersfield, Los Angeles, Anaheim, Sacramento	1.3588	548	1.1401	baseball	1001 m	Moreno Valley, Modesto	0.2252	-0.1514
+3	1544 kg	0.5425	boxing	Santa Clarita	1.2135	425	2.3979	badminton	503 m	Irvine, Santa Ana, Anaheim, Bakersfield, Chula Vista	0.3672	0.5739
+1	-587 kg	0.4191	track & field	Irvine, Chula Vista	1.467	1187	1.5075	golf	226 m	Bakersfield, San Jose, Chula Vista, Anaheim, Irvine	0.0286	1.7234
+5	1609 kg	-0.8352	golf	Stockton	0.9099	1243	0.2382	basketball	283 m	Santa Clarita	-0.4021	1.067
+5	-320 kg	0.3255	badminton	Stockton	-0.532	1533	1.5979	basketball	2696 m	Santa Clarita	-0.7106	0.2853
+1	-85 kg	0.5974	motor sports	Riverside, Modesto, Moreno Valley, Fresno	-1.0383	314	1.834	track & field	1425 m	San Jose, Irvine, Bakersfield, Chula Vista	2.3741	1.495
+4	130 kg	0.0976	ice hockey	Long Beach, San Francisco	0.8002	91	0.8265	soccer	1424 m	Stockton	-0.8931	0.4334
+3	1310 kg	0.5734	boxing	Santa Clarita	0.889	2192	1.0984	volleyball	-710 m	San Francisco	0.7791	-0.0162
+0	24 kg	0.5441	soccer	Long Beach	1.5123	-176	0.6969	baseball	1438 m	Sacramento	1.2391	0.9011
+2	1629 kg	1.0128	badminton	Chula Vista, Irvine	1.0643	1236	1.7252	boxing	-306 m	Fremont, San Diego, Los Angeles, San Bernardino	0.8957	0.3589
+0	1907 kg	0.2977	football	LOS ANGELES, BAKERSFIELD, SACRAMENTO	0.1261	674	-0.7731	baseball	959 m	Bakersfield	0.4329	0.0467
+5	-538 kg	-0.0405	N/A	Stockton	-0.2936	2521	-3.1073	basketball	1916 m	Long Beach	-0.1262	-0.6034
+5	-195 kg	0.9319	golf	Stockton	-0.5029	914	-0.3086	basketball	1628 m	santa clarita	1.3497	0.7659
+5	844 kg	-0.1977	badminton	Stockton	-0.2764	706	0.9715	basketball	-220 m	Long Beach	0.6102	-0.1904
+1	642 kg	-0.7724	track & field	Riverside	0.7254	832	1.4108	golf	-1437 m	San Jose, Irvine, Bakersfield, Anaheim, Santa Ana	1.6537	1.0648
+3	-501 kg	0.976	baseball	San Jose	-0.5553	841	0.7805	ice hockey	450 m	San Francisco	0.2916	0.6226
+4	-795 kg	2.1191	ice hockey	Long Beach	1.3392	-500	-0.2992	soccer	215 m	Moreno Valley	0.8377	-0.3052
+1	293 kg	0.0221	track & field	Fresno	-1.5314	698	0.5981	golf	-697 m	Chula Vista	0.7721	0.7793
+1	-1033 kg	0.3005	Motor Sports	Fresno, Moreno Valley, Modesto	0.7289	252	1.4318	track & field	-1001 m	Anaheim, Irvine, Chula Vista, San Jose, Santa Ana	1.7543	1.1373
+2	-2105 kg	0.4186	volleyball	chula vista	0.8048	-112	2.1524	running	-441 m	Fremont, San Bernardino	1.3737	0.2984
+5	507 kg	-0.4833	golf	Stockton	0.3692	541	-0.833	basketball	200 m	Santa Clarita	-0.1556	1.1337
+5	1225 kg	0.5942	golf	Stockton	0.0976	-122	0.4436	basketball	869 m	Santa Clarita	-0.1886	0.247
+2	1239 kg	1.7619	volleyball	Chula Vista, Oakland	0.4998	370	1.2306	running	494 m	Los Angeles	0.6429	1.8932
+4	1347 kg	1.5343	ice hockey	San Bernardino, Long Beach	1.0606	856	-0.6517	soccer	1415 m	Moreno Valley, Stockton	1.3143	1.2771
+0	1184 kg	-0.6244	badminton	Bakersfield	-0.2288	1028	n/a	baseball	1047 m	Sacramento	0.8589	0.9948
+5	478 kg	-0.1369	badminton	Stockton	-0.5923	127	-0.6506	Basketball	-2483 m	Santa Clarita	-0.6664	1.3943
+2	187 kg	0.4255	volleyball	Chula Vista, Irvine	-0.3183	-761	1.3124	boxing	1208 m	Oakland	1.4597	0.8323
+1	444 kg	-1.1335	motor sports	Riverside, Santa Ana	1.5539	-284	1.0473	track & field	1718 m	Anaheim	-0.1638	-0.1493
+3	-541 kg	0.4674	baseball	San Jose	2.4221	-168	0.6516	Volleyball	2328 m	Riverside	0.1718	1.6131
+4	2266 kg	-0.5478	football	sAN bERNARDINO	-0.0048	1571	-0.7333	soccer	-106 m	modesto	0.7301	-0.2925
+2	1051 kg	0.0586	volleyball	Irvine	1.4433	42	0.3809	motor sports	821 m	Oakland, San Bernardino, San Diego	1.2315	0.6424
+3	-1518 kg	2.3303	badminton	San Jose	1.1868	-511	0.7818	badminton	920 m	Riverside	2.1546	-0.4647
+0	-112 kg	0.9612	soccer	San Diego	-0.1949	222	1.7515	baseball	1734 m	Sacramento	1.0652	-0.8454
+2	52 kg	-0.2692	VOLLEYBALL	Chula Vista, Irvine	0.4308	1871	-0.6427	motor sports	898 m	San Bernardino, Fremont, Los Angeles	1.0771	0.3516
+5	370 kg	0.3542	golf	Stockton	0.0431	1223	-2.4609	basketball	11 m	Santa Ana	-0.0484	0.7878
+1	-672 kg	-0.1756	NULL	Modesto, Santa Ana, Fresno, Moreno Valley	0.5197	355	-0.245	track & field	893 m	Santa Ana, Anaheim	0.9866	1.0438
+2	1637 kg	1.5179	volleyball	Santa Ana	1.2291	1324	1.5434	boxing	841 m	Fremont, Los Angeles, San Diego	2.6335	0.8631
+4	-1047 kg	0.3425	basketball	San Francisco, San Bernardino	0.8736	682	-0.3058	soccer	1455 m	mORENO vALLEY, sTOCKTON	0.6442	0.2612
+2	1314 kg	1.2175	volleyball	Irvine, Chula Vista	0.2094	1555	0.4514	running	2069 m	Oakland, San Diego, San Bernardino, Los Angeles	2.1606	1.3777
+0	-787 kg	0.6788	tennis	Anaheim, Sacramento, Fremont	-0.7681	1003	-0.4721	baseball	49 m	Sacramento	-0.0729	1.6132
+4	2396 kg	-0.6534	basketball	San Bernardino	1.9903	921	1.2625	soccer	398 m	Moreno Valley	-0.5519	-0.4442
+3	47 kg	0.1636	tennis	Santa Clarita	0.7236	57	None	soccer	1070 m	San Francisco	1.3129	1.7275
+0	-585 kg	-0.0769	soccer	Sacramento, Anaheim, Los Angeles, Bakersfield, San Diego	0.5952	2216	0.3116	baseball	1228 m	Bakersfield, Anaheim, Santa Ana, Chula Vista	1.8707	0.8337
+3	1021 kg	0.5093	boxing	Santa Clarita	0.8106	-1538	2.1633	volleyball	1199 m	Riverside	0.2315	0.1134
+1	-343 kg	0.971	badminton	Modesto, Moreno Valley, Santa Ana, Riverside	0.4558	87	-0.1483	golf	-152 m	Irvine	1.1559	1.455
+3	490 kg	0.9798	boxing	Santa Clarita	0.7081	-130	-1.5548	ice hockey	-968 m	San Francisco	1.2855	0.1156
+3	-363 kg	0.2774	boxing	San Jose	-0.0506	1082	1.5004	ice hockey	547 m	Riverside	1.9644	0.2689
+3	1006 kg	1.0455	boxing	San Jose	-0.161	536	0.4567	volleyball	-929 m	San Francisco	0.6275	0.0749
+4	893 kg	1.1429	ice hockey	San Francisco, Long Beach	-0.0674	-69	1.2286	soccer	1336 m	Moreno Valley, Stockton	2.6607	-0.0706
+3	1135 kg	1.8083	baseball	San Jose	0.2392	210	-0.6524	volleyball	1083 m	San Francisco	1.0986	0.5618
+2	629 kg	1.2208	boxing	Oakland	0.8823	-814	-0.1806	football	-82 m	Fremont	1.5117	1.7441
+3	264 kg	2.4333	boxing	San Jose	1.5348	645	0.5497	tennis	932 m	Fremont, Los Angeles, San Bernardino, San Diego	-0.4132	0.2377
+0	2104 kg	0.4831	tennis	Anaheim	0.7062	1491	-0.8687	baseball	1177 m	Fresno	0.4605	-0.3372
+3	-683 kg	0.7297	baseball	san jose	0.5492	-1594	1.5137	ice hockey	-51 m	Riverside	0.8981	0.1284
+1	579 kg	0.7066	track & field	Santa Ana, Modesto, Riverside	-0.3195	51	0.9312	track & field	20 m	San Jose, Bakersfield, Irvine, Chula Vista	-0.0646	0.3095
+5	1933 kg	1.5991	golf	Stockton	0.6857	1846	1.6241	BASKETBALL	1419 m	Santa Clarita	-0.1824	0.7976
+1	-163 kg	0.1434	track & field	Santa Ana, Fresno	0.5816	916	0.694	track & field	1550 m	Chula Vista, Bakersfield, Santa Ana, San Jose, Irvine	1.0302	-0.589
+5	391 kg	1.3735	badminton	Anaheim, San Diego, Fremont, Sacramento, Los Angeles	1.1037	753	-2.327	soccer	887 m	SANTA CLARITA	-0.2135	0.0136
+5	-665 kg	-0.713	ice hockey	Stockton	-0.3911	1442	0.1715	golf	-446 m	Santa Clarita	-1.0376	0.2765
+3	158 kg	0.118	baseball	Santa Clarita	-0.0414	-1066	1.6024	ice hockey	937 m	Riverside	0.359	1.5589
+3	2591 kg	1.6639	boxing	Moreno Valley	1.1669	110	1.1244	tennis	527 m	San Francisco	0.0867	1.0159
+5	-246 kg	0.3985	badminton	Stockton	0.7057	877	-0.881	basketball	711 m	Santa Clarita	0.8935	1.6073
+1	180 kg	-0.0748	motor sports	Santa Ana, Modesto, Riverside	-1.1026	452	0.5373	golf	-644 m	Bakersfield, Santa Ana, Irvine, Anaheim, San Jose	-0.0992	0.4756
+1	94 kg	0.0477	soccer	Riverside	1.7524	913	-0.7654	golf	-149 m	San Jose, Chula Vista	1.4921	1.6523
+0	1129 kg	0.2364	motor sports	Fremont	1.1919	874	1.0015	baseball	2026 m	Fresno	0.4269	-0.6439
+1	398 kg	0.0714	motor sports	Modesto	0.4587	-714	1.8541	track & field	-294 m	Chula Vista, Irvine, Santa Ana, Anaheim, Bakersfield	0.1118	1.1941
+4	-370 kg	0.908	ice hockey	Bakersfield, Anaheim, Sacramento	1.4036	1533	1.0855	soccer	1932 m	Modesto	-0.3456	0.7321
+0	1153 kg	1.032	soccer	Oakland, Irvine	1.5617	1056	0.455	baseball	471 m	Sacramento	0.7836	0.992
+5	-960 kg	0.1429	golf	San Jose	0.6863	1681	-0.008	?	-181 m	Santa Clarita	0.5322	2.5939
+4	589 kg	0.6772	ice hockey	San Bernardino, San Francisco	1.5011	422	-0.4314	soccer	1064 m	San Francisco	-0.9635	0.7331
+4	-2 kg	0.9651	basketball	San Bernardino	-0.2437	808	1.4141	baseball	282 m	Moreno Valley	-0.0116	0.6655
+3	557 kg	1.685	baseball	Santa Clarita	0.9509	-2	2.0439	badminton	1806 m	San Francisco	1.3818	0.1268
+5	717 kg	0.4521	golf	Stockton	0.4242	616	0.5634	basketball	49 m	Long Beach	0.4426	0.6009
+3	66 kg	0.2095	baseball	San Jose	0.4088	-519	1.2921	tennis	1726 m	San Francisco	1.1177	0.8729
+5	1875 kg	0.0955	RUNNING	Stockton		441	0.8548	basketball	-2121 m	Santa Clarita	0.5362	0.1783
+2	1015 kg	1.1897	volleyball	Chula Vista	0.2144	1057	0.6071	motor sports	1703 m	San Diego, San Bernardino, Los Angeles, Fremont	0.8082	0.6907
+4	117 kg	1.3039	ice hockey	San Bernardino, Long Beach	-0.3726	1017	0.4268	track & field	1790 m	Stockton, Moreno Valley	0.4672	0.3581
+3	-1007 kg	1.8471	boxing	Santa Clarita	-0.3146	543	0.4938	track & field	2515 m	San Francisco	1.4447	0.2295
+0	-138 kg	0.7885	tennis	Anaheim, Fremont, Sacramento	0.6756	809	0.3873	baseball	966 m	Sacramento	-0.026	0.0734
+1	910 kg	0.6349	motor sports	Riverside, Fresno, Moreno Valley	0.0033	546	-0.3495	track & field	57 m	IRVINE	1.1157	0.6995
+1		0.5021	track & field	Modesto, Fresno, Riverside, Santa Ana	1.2443	209	0.1145	track & field	308 m	Irvine, Anaheim, Bakersfield, San Jose	0.5829	-0.7366
+3	-858 kg	0.5476	baseball	SANTA CLARITA	0.335	526	-0.3052	badminton	1901 m	Riverside	0.8269	0.4643
+3	1377 kg	1.04	boxing	Santa Clarita	0.2272	678	-0.1828	ice hockey	1196 m	Sacramento	-0.8162	1.4511
+2	-1384 kg	0.1591	volleyball	Irvine, Oakland	0.8926	1366	-0.035	running	854 m	Riverside	1.19	1.25
+1	335 kg	-0.1429	motor sports	Santa Ana, Riverside, Fresno, Moreno Valley	1.0102	495	1.9112	track & field	-818 m	Anaheim	0.6599	0.7495
+1	-378 kg	0.2651	motor sports	Santa Ana, Moreno Valley, Modesto, Riverside	0.9283	-1164	0.1281	golf	235 m	Chula Vista	-0.2457	1.839
+2	-520 kg	1.2221	volleyball	Oakland	0.6973	1375	1.9706	football	1214 m	San Diego, Los Angeles, Oakland, San Bernardino	0.8076	1.1513
+5	1212 kg	1.8946	golf	sTOCKTON	1.0403	1192	0.7981	basketball	-1612 m	Chula Vista, Irvine, Bakersfield, Santa Ana	0.9784	0.3651
+3	352 kg	0.3112	volleyball	San Jose	1.5198	-962	0.8131	badminton	1200 m	San Francisco	0.7299	0.6149
+2	-664 kg	-0.1129	volleyball	Oakland, Irvine	0.0061	767	0.7161	soccer	-409 m	Oakland	1.273	0.3009
+4	122 kg	0.6503	basketball	San Francisco	-0.6913	1545	0.6741	soccer	273 m	Stockton	0.8767	0.6716
+0	2808 kg	0.2242	football	Bakersfield	-0.6111	68	0.976	baseball	-1002 m	Modesto, Moreno Valley	-0.0511	-0.1584
+0	1375 kg	1.2228	soccer	Los Angeles, Sacramento, Fremont, San Diego, Anaheim	1.6139	1612	0.877	baseball	1633 m	Stockton	-0.7726	0.3811
+2	-268 kg	0.1383	volleyball	Long Beach, San Bernardino	0.7716	493	-0.2656	motor sports	2487 m	Oakland, Fremont, San Bernardino, Los Angeles	2.3097	1.0566
+5	-966 kg	0.1021	running	Stockton	1.5261	308	0.393	basketball	-865 m	Long Beach	-0.9087	1.3093
+3	1565 kg	0.6736	baseball	San Jose	0.3628	330	0.0345	ice hockey	2022 m	Riverside	0.5688	-0.3406
+2	661 kg	2.3838	volleyball	Chula Vista, Irvine	1.2276	1124	-0.0492	football	583 m	San Jose	1.6311	-0.6336
+0	-74 kg	0.0591	football	San Diego, Sacramento, Fremont, Los Angeles	1.2383	630	-0.7558	baseball	1144 m	SACRAMENTO	-0.405	1.8128
+2	535 kg	-0.4288	volleyball	Oakland	N/A	512	0.402	motor sports	-889 m	Fremont, Los Angeles, Oakland, San Bernardino	1.6292	0.8943
+5	937 kg	0.6247	badminton	Stockton	0.2372	868	0.0175	basketball	-1078 m	Long Beach	0.7851	1.4204
+4	966 kg	-0.1923	ice hockey	San Francisco	1.0027	520	1.1624	soccer	-35 m	MODESTO	0.1212	-0.4273
+4	528 kg	-0.7353	ice hockey	San Bernardino	0.6315	623	0.9587	soccer	63 m	Moreno Valley	-0.3596	None
+1	678 kg	0.6412	motor sports	Moreno Valley	0.8463	262	1.1075	track & field	768 m	Chula Vista, Santa Ana, Bakersfield, Irvine	0.3597	0.7365
+4	1922 kg	0.2052	ice hockey	Long Beach, San Francisco	-0.0512	1012	0.8965	track & field	1605 m	Modesto, Stockton	-0.8029	-0.3948
+3	-111 kg	0.249	boxing	Santa Clarita	0.7664	362	2.1208	badminton	-569 m	Riverside	-0.4498	1.1468
+3	-1005 kg	0.608	None	Santa Clarita	0.9622	643	-0.1048	volleyball	304 m	San Francisco	1.2306	-0.1953
+2	-546 kg	0.82	volleyball	Moreno Valley, Fresno	0.6714	761	-0.642	motor sports	729 m	Fremont, San Diego, San Bernardino, Oakland	0.0707	0.7537
+3	1623 kg	0.446	baseball	Santa Clarita	0.746	651	1.1223	tennis	1062 m	Riverside	1.0047	-0.0856
+0	1101 kg	0.9554	tennis	San Diego, Fremont	-0.7444	-285	0.3764	baseball	2933 m	?	2.3046	2.0604
+5	730 kg	1.0177	running	Stockton	1.2502	692	0.9074	basketball	280 m	Long Beach	N/A	-0.0764
+4	416 kg	1.0469	basketball	San Francisco, Long Beach	-0.3843	303	0.4652	tennis	1702 m	Stockton	0.97	1.5381
+4	511 kg	0.6704	basketball	San Francisco, Long Beach	0.812	1155	0.7938	soccer	-828 m	Moreno Valley, Stockton	1.4182	0.2525
+5	1370 kg	0.3374	running	Stockton	-0.1229	554	1.2056	basketball	1072 m	Fremont, Oakland, San Bernardino, Los Angeles	0.1276	0.4978
+3	306 kg	2.2818	boxing	San Jose	-0.1026	-15	1.1564	ice hockey	759 m	San Francisco	1.1705	0.7909
+0	-68 kg	0.5269	track & field	Los Angeles, San Diego, Fremont, Sacramento, Bakersfield	0.5212	1579	-0.6384	baseball	456 m	Fresno	-0.9423	-0.5533
+5	-521 kg	?	badminton	stockton	0.1453	2333	0.6475	tennis	1541 m	Santa Clarita	-0.9188	1.6348
+4	1026 kg	0.3103	ice hockey	Fremont, Anaheim, Los Angeles, Bakersfield	-0.0245	637	-0.4653	soccer	651 m	Stockton, Moreno Valley	-0.2676	0.7129
+2	1285 kg	1.113	volleyball	Irvine, Chula Vista	0.2879	701	0.9313	football	1470 m	San Diego	1.1185	-0.7336
+1	1569 kg	1.4925	motor sports	Riverside, Moreno Valley	1.7783	239	1.9742	golf	-375 m	Chula Vista, Bakersfield, San Jose, Irvine	0.7249	-0.2345
+4	-1414 kg	1.2202	basketball	Long Beach, San Bernardino	1.4922	1461	-0.9546	soccer	1328 m	Stockton	1.1161	0.4125
+2	-889 kg	1.0742	volleyball	Chula Vista, Oakland	1.4815	1040	1.5998	running	365 m	San Diego	1.6313	1.0781
+0	1325 kg	0.3924	football	Fremont, Bakersfield, Anaheim	0.556	1074	0.6471	baseball	1265 m	Sacramento	-0.0073	0.6227
+4	777 kg	-0.2388	basketball	san bernardino, san francisco	2.1548	197	0.1469	soccer	467 m	Stockton	-0.5229	1.2412
+2	-324 kg	0.4957	volleyball	Oakland	None	-116	1.2678	soccer	2380 m	Los Angeles, Fremont, San Diego	0.5884	1.3216
+5	2636 kg	0.0861	running	Fremont, Los Angeles, Anaheim, San Diego	0.1911	2992	0.0471	basketball	95 m	Stockton	1.0302	1.3257
+1	1135 kg	0.2613	motor sports	Moreno Valley, Santa Ana	0.0891	822	1.4091	golf	-388 m	Santa Ana, Irvine, San Jose	0.5045	1.7972
+1	296 kg	0.6837	motor sports	Riverside, Moreno Valley, Modesto, Fresno	-0.0733	258	-0.599	golf	622 m	Anaheim	0.717	1.1233
+5	2051 kg	1.7788	golf	Stockton	1.3762	516	0.4476	basketball	1148 m	Long Beach	0.6045	1.4919
+2	-66 kg	0.7342	volleyball	Irvine	0.5792	89	0.9669	boxing	-99 m	San Diego, Los Angeles, Fremont, San Bernardino	0.9322	1.0974
+5	1127 kg	0.8002	running	Stockton	1.7268	N/A	0.4338	basketball	-443 m	Long Beach	0.5583	0.445
+4	1328 kg	-0.2757	basketball	Santa Clarita	-0.3534	824	-0.7534	soccer	1015 m	Stockton	1.0414	-1.3956
+5	919 kg	-0.1935	golf	Stockton	1.1696	1574	0.1043	basketball	-40 m	Santa Clarita	1.7575	1.2941
+5	327 kg	0.7492	golf	Long Beach, San Francisco	0.2807	766	0.9374	badminton	1162 m	Santa Clarita	0.5864	2.6368
+1	256 kg	0.9784	track & field	Santa Ana, Modesto, Riverside	0.9742	-292	0.3009	golf	-663 m	Santa Ana, Chula Vista, Bakersfield, Irvine	0.1664	0.8768
+0	-125 kg	-0.7199	football	Anaheim, Los Angeles, Bakersfield, San Diego	1.6451	1746	0.0466	baseball	1952 m	Sacramento	-0.3906	1.2605
+0	1644 kg	-0.5578	football	Fremont	1.3143	598	-1.6226	baseball	1236 m	Sacramento	1.3586	0.4245
+4	-1601 kg	0.6573	basketball	Long Beach, San Bernardino	1.1488	191	-0.1365	soccer	-489 m	Modesto, Moreno Valley	0.4315	1.2788
+2	501 kg	1.4447	volleyball	Irvine, Oakland	0.0247	1025	-2.3776	running	637 m	Fremont	-0.0952	1.368
+5	883 kg	0.3911	badminton	Stockton	-0.5586	2804	0.5991	basketball	621 m	Long Beach	0.5386	1.7888
+1	293 kg	0.0607	track & field	Los Angeles, Sacramento, Anaheim	0.8128	1485	0.0257	golf	1523 m	San Diego, San Bernardino	0.2397	0.7895
+3	719 kg	-0.2171	boxing	San Jose	0.5278	476	1.6881	soccer	303 m	San Francisco	1.7851	0.6198
+2	362 kg	-0.1606	volleyball	Chula Vista	0.553	719	0.7339	football	2157 m	San Diego	2.5498	0.5979
+3	369 kg	0.1485		Santa Clarita	0.1358	346	0.2535	ice hockey	953 m	San Francisco	-0.3481	-0.6557
+3	526 kg	0.8113	BOXING	San Jose	1.0751	589	1.0823	volleyball	872 m	Riverside	0.29	0.3222
+0	-527 kg	0.5278	baseball	Los Angeles, San Diego, Sacramento, Anaheim	0.4259	847	0.0129	baseball	-395 m	Santa Clarita	0.9666	1.7143
+4	867 kg	0.7556	ice hockey	San Bernardino, San Francisco	0.8291	110	0.422	soccer	1288 m	Modesto, Stockton	1.8003	0.6396
+5	-880 kg	0.2066	badminton	Stockton	0.7688	1042	1.2321	basketball	-159 m	Long Beach	0.5457	2.7419
+5	303 kg	1.0886	running	Stockton	1.31	805	0.6126	basketball	95 m	Sacramento	1.4435	0.7831
+4	932 kg	-0.3389	basketball	Long Beach, San Francisco	1.4215	1096	1.5058	soccer	-29 m	Modesto	0.3719	0.3159
+1	-13 kg	0.1035	track & field	Modesto, Santa Ana, Fresno, Riverside	-0.5295	-410	2.5183	golf	-1053 m	Santa Ana	1.3384	0.8005
+0	-442 kg	0.1234	tennis	Anaheim, Fremont, San Diego, Sacramento, Los Angeles	-0.3016	2080	0.029	baseball	941 m	Fresno	2.4627	0.1043
+5	475 kg	-0.2283	golf	Stockton	1.0471	626	-0.5356	basketball	488 m	Long Beach	0.8352	0.1413
+4	923 kg	0.2875	basketball	San Bernardino	1.2964	1024	-0.0132	soccer	-650 m	Modesto, Stockton	0.5195	0.5597
+0	1336 kg	-1.727	soccer	Los Angeles, Fremont	1.2401	1314	2.6598	baseball	757 m	Sacramento	2.1468	-0.2385
+4	564 kg	1.6253	basketball	Long Beach, San Bernardino	-0.5722	701	1.2392	soccer	174 m	Santa Clarita	-0.577	-0.7681
+4	1266 kg	1.28	ice hockey	Long Beach, San Francisco	1.1948	934	1.6146	soccer	1035 m	Stockton	0.1792	0.7681
+1	-638 kg	0.0518	track & field	Fresno	-0.9981	-137	-0.2476	track & field	-42 m	Moreno Valley, Modesto	0.1683	-0.3588
+1	-888 kg	-0.6634	motor sports	Moreno Valley, Riverside, Santa Ana, Modesto	-0.1822	-319	-0.5103	golf	1050 m	San Jose	-0.2673	0.1491
+4	1536 kg	-0.7586	ice hockey	San Francisco	0.6724	1264	-0.514	soccer	1847 m	Fremont, Los Angeles, San Diego	1.427	1.0731
